@@ -160,10 +160,11 @@ No: Skype, IRC, ...
 
 ## Further Guides
 
-- https://basecamp.com/books/remote
-- https://about.gitlab.com/company/culture/all-remote/
-- https://www.thoughtworks.com/remote-work-playbook
+[Remote: By DHH](https://basecamp.com/books/remote) is ...
 
+[Remote Guide by Gitlab](https://about.gitlab.com/company/culture/all-remote/) is ...
+
+[The Remote Work Playbook by Thoughtworks](https://www.thoughtworks.com/remote-work-playbook) is ...
 
 ## Things you should stop doing
 
