@@ -102,6 +102,7 @@ Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair
 ### Video Conferencing
 
 Use [zoom.us](https://zoom.us/). 
+
 Zoom is the most mature, stable, and less CPU-intense video conferencing that we know.
 It hat good support for Linux and mobile devices.
 We like the moveable video stream gallery view while screen sharing.
