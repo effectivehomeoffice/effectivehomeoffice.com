@@ -6,7 +6,7 @@
 
 In our talks and articles about working from home, [we](#authors) get frequently asked about the hardware and software we use. We want to provide our tips for a successful setup to work from home, being it tips on [hardware](#hardware), [software](#software), [methods](#methods), or, the most important aspect, [health](#health). Happy reading!
 
-Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice) for questions, comments, praise, or critique. 
+Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice) for questions, comments, praise, or critique.
 
 ## Hardware
 
@@ -14,14 +14,10 @@ Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](http
 
 <img src="images/yeti.png" align="right" width="150">
 
-Working from home has a higher natural communication barrier. 
-Invest in good hardware to improve the overall remote communication experience.
-Audio is more important than video. 
-
-Buy a podcaster microphone, as it has directed antenna and noise-cancelling capabilities.
-This enables you to talk headset-free.
-
-We recommend the [Blue Yeti](https://www.bluedesigns.com/products/yeti/) ($129). Set it to cardioid mode. Consider a [Compass boom arm](https://www.bluedesigns.com/products/compass/) ($99) for perfect positioning.
+Nobody wants to wear a headset all day.
+Sadly, common headset-free "solutions" let every listener suffer from bad audio and lots of noise.
+To have happy listeners instead, get a podcaster microphone with directed antenna and noise-cancelling capabilities.
+We recommend the [Blue Yeti](https://www.bluedesigns.com/products/yeti/) ($129). Set it to cardioid mode.
 
 ### Headset
 
@@ -33,7 +29,7 @@ For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are ju
 
 ### Webcam
 
-The camera  itself is not super important. 
+The camera itself is not super important. 
 A decent webcam is sufficient. 
 Nobody needs 4K. 
 60fps is a nice-to-have. 
