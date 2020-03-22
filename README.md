@@ -23,6 +23,8 @@ Don't use a headset, if you can.
 
 In a environment where you need a headset (2 persons in the same room), you might consider a [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) headset, that matches your preferences.
 
+For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
+
 ### Camera
 
 
