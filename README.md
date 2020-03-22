@@ -8,17 +8,6 @@ Ask us anything on Twitter with hashtag [#effectivehomeoffice](https://twitter.c
 
 ## Hardware
 
-### Office Chair
-
-Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
-
-### Desk
-
-Make sure that your desk is at the perfect height.
-It should not jiggle when moving the mouse.
-
-We recommend a timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
-
 ### Microphone
 
 As working from home has a higher natural communication barrier, invest in good hardware to improve the remote communication experience.
@@ -91,6 +80,17 @@ If you cannot use an ethernet cable, evaluate [Power-line communication](https:/
 If you need better Wi-Fi, we recommend Ubiquiti [Unifi](https://unifi-network.ui.com/) and [Amplifi](https://amplifi.com/).
 
 ### iPad
+
+### Desk
+
+Make sure that your desk is at the perfect height.
+It should not jiggle when moving the mouse.
+
+We recommend a timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
+
+### Office Chair
+
+Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
 
 ### Advanced
 
