@@ -1,4 +1,4 @@
-// TODO: Hier Bild von Simons Schreibtisch
+![Effective Home Office](images/header.jpeg)
 
 An opinionated guide to effectively work from home.
 
