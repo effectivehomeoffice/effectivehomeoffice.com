@@ -22,7 +22,7 @@ Our recommendation is the [Blue Yeti](https://www.bluedesigns.com/products/yeti/
 
 Don't use a headset, if you can.
 
-In an environment where you need a headset (2 persons in the same room), you might consider a [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) headset, that matches your wearing preferences. Many prefer the [Evolve 65](https://www.jabra.com.de/business/office-headsets/jabra-evolve/jabra-evolve-65).
+In an environment where you need a headset (2+ people in the same room), you might consider a [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) headset, that matches your wearing preferences. Many prefer the [Evolve 65](https://www.jabra.com.de/business/office-headsets/jabra-evolve/jabra-evolve-65).
 
 For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
 
