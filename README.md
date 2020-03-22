@@ -8,6 +8,14 @@ Ask us anything on Twitter with [#effectivehomeoffice](https://twitter.com/hasht
 ## Hardware
 
 ### Microphone
+
+As working from home has higher natural communication barrier, invest in good hardware to improve the remote communication experience.
+Audio is more important than video. 
+
+Buy a podcaster microphone, as it has directed antenna and noise-cancelling capabilities.
+
+Our recommendation is the [Blue Yeti](https://www.bluedesigns.com/products/yeti/) ($129). Switch it to cardioid mode. Consider a [Compass broadcast boom arm](https://www.bluedesigns.com/products/compass/) for perfection positioning.
+
 ### Camera
 ### Headset
 ### Monitor
