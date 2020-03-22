@@ -10,7 +10,7 @@ Ask us anything on Twitter with hashtag [#effectivehomeoffice](https://twitter.c
 
 ### Microphone
 
-<img style="float: right;" src="images/yeti.png" width="150">
+<img src="images/yeti.png" align="right" width="150">
 
 As working from home has a higher natural communication barrier, invest in good hardware to improve the remote communication experience.
 Audio is more important than video. 
