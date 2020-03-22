@@ -162,6 +162,7 @@ No: Skype, IRC, ...
 
 - https://basecamp.com/books/remote
 - https://about.gitlab.com/company/culture/all-remote/
+- https://www.thoughtworks.com/remote-work-playbook
 
 
 ## Things you should stop doing
