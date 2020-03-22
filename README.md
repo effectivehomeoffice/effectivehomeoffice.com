@@ -1,5 +1,7 @@
 # Effective Home Office
 
+// TODO: Hier Bild von Simons Schreibtisch
+
 An opinionated guide to effectively work from home.
 
 In our talks and articles about working from home, [we](#authors) get frequently asked about the hardware and software we use. We want to provide our tips for a successful setup to work from home.
@@ -84,6 +86,8 @@ If you need better Wi-Fi, we recommend Ubiquiti [Unifi](https://unifi-network.ui
 
 ### iPad
 
+- iPad Pro with Apple Pencil 2
+
 ### Desk
 
 Make sure that your desk is at the perfect height.
@@ -105,17 +109,38 @@ Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair
 ## Software
 
 ### Video Conferencing
+- zoom.us
+- whereby
+
 ### Team Chat
+
+- Slack
+- Microsoft Teams
+
+No: Skype, IRC, ...
+
 ### Pair Programming
+
+- https://tuple.app/
+
 ### mob
+
+- https://github.com/remotemobprogramming/mob
 
 
 ## Methods
 
 ### Video Conferences
+
+
 ### Check-Ins
+
+- Basecamp Check-Ins https://basecamp.com/features/checkins
+
 ### Pairing
 ### Mob Programming
+- https://www.remotemobprogramming.org/
+
 ### Employee Readme
 ### Topic and Team Chat Channels
 - Domain topic specific channels.
