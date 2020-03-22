@@ -21,6 +21,8 @@ Our recommendation is the [Blue Yeti](https://www.bluedesigns.com/products/yeti/
 
 Don't use a headset, if you can.
 
+In a environment where you need a headset (2 persons in the same room), you might consider a [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) headset, that matches your preferences.
+
 ### Camera
 
 
