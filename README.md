@@ -28,8 +28,28 @@ For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are ju
 ### Camera
 
 
-### Monitor
-### Wifi
+### Computer monitor
+
+Currently, there is no display available that we can recommend.
+
+Our requirements:
+
+- _27" to 30" diagonal_ Not to small and not to big. Your workspace should fit on one fullscreen.
+- _No ultrawide_. Use a popular aspect ratio, so others can see your full screen when screen sharing.
+- _4K resolution_. For screen sharing fitted to your screen, 4K is required. 5K or more is not recommended, as others might have problems to display it correctly. 
+- _Webcam built-in_. As stated below, the webcam should be as close to the main screen as possible. So it should be built-in and horizontally centered. 
+- _Good speakers_. The voices of your communication partners should come from the direction of the video stream. Crystal clear. 2 x 2 Watt speakers are not.
+- _Accurate colors_. Not super important for most work. Colors should be OK.
+- _Height-adjustable_. For ergonomics.
+- _Thunderbolt 3 or USB-C_. State of the art connectivity. We would love to finally get rid of our Thunderbolt docks.
+- _Thin margins_. Design matters.
+
+As already stated, unfortunately none of current displays match these requirements. 
+We bought cheap 4K IPS displays and a Thunderbolt Dock, external Webcam, and use the MacBook speakers. 
+Please give us a hint, if you have better alternatives.
+
+
+### Wi-Fi
 
 ## Software
 
