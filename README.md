@@ -153,12 +153,15 @@ No: Skype, IRC, ...
 ### Ergonomics
 ### Desk Positioning
 ### Hygiene matters
+### CO2 meter
 ### AFK Breaks
 ### Lunch Break
 
 
 ## Further Guides
 
+- https://basecamp.com/books/remote
+- https://about.gitlab.com/company/culture/all-remote/
 
 
 ## Things you should stop doing
