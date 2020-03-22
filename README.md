@@ -74,15 +74,10 @@ So, we won't give any recommendations here.
 
 ### Wi-Fi
 
-Avoid Wi-Fi, if you can. 
-Connection disruptions are annoying for everyone. 
-
-Use a simple [Cat 7 ethernet cable](https://www.amazon.com/AmazonBasics-Network-Ethernet-Patch-Cable/dp/B013PUMX8I) to connect your computer to your router.
-This provides a reliable and fast connection.
-
-If you cannot use an ethernet cable, evaluate [Power-line communication](https://en.avm.de/products/fritzpowerline/fritzpowerline-1240e-wlan-set/), which is still more reliable than Wi-Fi.
-
-If you need better Wi-Fi, we recommend Ubiquiti [Unifi](https://unifi-network.ui.com/) and [Amplifi](https://amplifi.com/).
+Connection disruptions are annoying for everyone.
+For a reliable and fast connection, use a [Cat 7 ethernet cable](https://www.amazon.com/AmazonBasics-Network-Ethernet-Patch-Cable/dp/B013PUMX8I) to connect your computer to your router.
+If you have to resort to Wi-Fi, invest, for the sake of your team, in high quality access points.
+We recommend Ubiquiti [Unifi](https://unifi-network.ui.com/) and [Amplifi](https://amplifi.com/).
 
 ### iPad
 
