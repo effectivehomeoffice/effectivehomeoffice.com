@@ -12,7 +12,8 @@ Ask us anything on Twitter with hashtag [#effectivehomeoffice](https://twitter.c
 
 <img src="images/yeti.png" align="right" width="150">
 
-As working from home has a higher natural communication barrier, invest in good hardware to improve the remote communication experience.
+Working from home has a higher natural communication barrier. 
+Invest in good hardware to improve the overall remote communication experience.
 Audio is more important than video. 
 
 Buy a podcaster microphone, as it has directed antenna and noise-cancelling capabilities.
