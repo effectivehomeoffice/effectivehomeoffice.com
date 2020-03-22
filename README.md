@@ -1,6 +1,7 @@
 # Effective Home Office
 
-An opinonated guide to effectivly work from home by @simonharrer and @jochen_christ.
+An opinionated guide to effectively work from home.
+
 
 
 Ask us anything on Twitter with [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice).
@@ -21,7 +22,7 @@ Our recommendation is the [Blue Yeti](https://www.bluedesigns.com/products/yeti/
 
 Don't use a headset, if you can.
 
-In a environment where you need a headset (2 persons in the same room), you might consider a [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) headset, that matches your wearing preferences.
+In an environment where you need a headset (2 persons in the same room), you might consider a [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) headset, that matches your wearing preferences.
 
 For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
 
@@ -34,8 +35,8 @@ Currently, there is no display available that we can recommend.
 
 Our requirements:
 
-- _27" to 30" diagonal_ Not to small and not to big. Your workspace should fit on one fullscreen.
-- _No ultrawide_. Use a popular aspect ratio, so others can see your full screen when screen sharing.
+- _27" to 30" diagonal_ Not to small and not to big. Your workspace should fit on one full-screen.
+- _No ultra-wide_. Use a popular aspect ratio, so others can see your full screen when screen sharing.
 - _4K resolution_. For screen sharing fitted to your screen, 4K is required. 5K or more is not recommended, as others might have problems to display it correctly. 
 - _Webcam built-in_. As stated below, the webcam should be as close to the main screen as possible. So it should be built-in and horizontally centered. 
 - _Good speakers_. The voices of your communication partners should come from the direction of the video stream. Crystal clear. 2 x 2 Watt speakers are not.
@@ -95,3 +96,6 @@ Ask us anything on Twitter with [#effectivehomeoffice](https://twitter.com/hasht
 To contribute, create a pull request on [Github](https://github.com/effectivehomeoffice/effectivehomeoffice.com).
 
 ## Authors
+
+@simonharrer and @jochen_christ
+
