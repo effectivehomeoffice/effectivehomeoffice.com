@@ -26,7 +26,21 @@ In an environment where you need a headset (2+ people in the same room), you mig
 
 For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
 
-### Camera
+### Webcam
+
+The camera  itself is not super important. 
+A decent webcam is sufficient. 
+Nobody needs 4K. 
+60fps is a nice-to-have. 
+We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) ($79).
+
+More important is the position of the webcam.
+Make sure to look directly to each other in video conferences.
+You should put the webcam on top of your primary screen.
+The webcam should be on eye-level (or slightly above).
+
+Don't use your laptop's built-in camera.
+It is mounted to low.
 
 
 ### Computer monitor
@@ -49,10 +63,13 @@ As already stated, unfortunately none of current displays match these requiremen
 We bought cheap 4K IPS displays and a Thunderbolt Dock, external Webcam, and use the MacBook speakers. 
 Please give us a hint, if you have better alternatives.
 
+We have different opinions about the usage of a second screen.
+So, we won't give any recommendations here.
+
 
 ### Wi-Fi
 
-Avoid using Wi-Fi, if you can. 
+Avoid Wi-Fi, if you can. 
 Connection disruptions are annoying for everyone. 
 
 Use a simple [Cat 7 ethernet cable](https://www.amazon.com/AmazonBasics-Network-Ethernet-Patch-Cable/dp/B013PUMX8I) to connect your computer to your router.
