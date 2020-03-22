@@ -1,6 +1,6 @@
 # Effective Home Office
 
-**An opinionated guide to effectively work from home.**
+An opinionated guide to effectively work from home.
 
 ![Effective Home Office](images/header.jpeg)
 
@@ -92,8 +92,24 @@ Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair
 ## Software
 
 ### Video Conferencing
-- zoom.us
-- whereby
+
+Use [zoom.us](https://zoom.us/). 
+
+Zoom is the most mature, stable, and less CPU-intense video conferencing that we know.
+It hat good support for Linux and mobile devices.
+We like the moveable video stream gallery view while screen sharing.
+
+One of the few downsides: 
+A meeting is always bound to a host.
+There is no concept of a virtual team room, where anyone can join and go as they like.
+The dependency to a single specific host user should definitly be avoided. 
+A personal meeting room can be configured to act like a team room, but it takes some time, until everything is set up correctly.
+
+When meeting with other teams or partners, we prefer to use [whereby.com](https://whereby.com/).
+With Whereby, a virtual room is just a URL, such as https://whereby.com/effectivehomeoffice.
+It runs in the browser using WebRTC, so no one has to install a client or browser plugin.
+This significantly lowers the barrier to join an online meeting.
+
 
 ### Team Chat
 
