@@ -170,7 +170,7 @@ No: Skype, IRC, ...
 
 ## Discuss and Contribute
 
-Ask us anything on Twitter with [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice).
+Ask us anything [on Twitter with #effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice) or [via email at hello@effectivehomeoffice.com](mailto:hello@effectivehomeoffice.com).
 
 To contribute, create a pull request on [Github](https://github.com/effectivehomeoffice/effectivehomeoffice.com).
 
