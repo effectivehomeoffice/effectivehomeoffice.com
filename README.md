@@ -2,11 +2,9 @@
 
 ![Effective Home Office](images/header.jpeg)
 
-An opinionated guide to effectively work from home.
+In our talks and articles about working from home, [we](#authors) get frequently asked about the hardware and software we use. We want to provide our tips for a successful setup to work from home, being it tips on [hardware](#hardware), [software](#software), [methods](#methods), or, the most important aspect, [health](#health). Happy reading!
 
-In our talks and articles about working from home, [we](#authors) get frequently asked about the hardware and software we use. We want to provide our tips for a successful setup to work from home.
-
-Ask us anything on Twitter with hashtag [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice).
+Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice) for questions, comments, praise, or critique. 
 
 ## Hardware
 
