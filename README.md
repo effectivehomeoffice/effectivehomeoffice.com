@@ -54,7 +54,7 @@ Currently, there is no display available that we can recommend.
 
 Our requirements:
 
-- _27" to 30" diagonal_. Not to small and not to big. Your workspace should fit on one full-screen.
+- _27" to 30" diagonal_. Not too small and not too big. Your workspace should fit on one full-screen.
 - _No ultra-wide_. Use a popular aspect ratio, so others can see your full screen when screen sharing.
 - _4K resolution_. 4K is required for screen sharing, as the screen may be fitted or zoomed to your screen. 4K helps here a lot. 5K or more is not recommended, as others might have problems to display it correctly. 
 - _Webcam built-in_. As stated below, the webcam should be as close to the main screen as possible. So it should be built-in and horizontally centered. 
