@@ -13,11 +13,17 @@ As working from home has higher natural communication barrier, invest in good ha
 Audio is more important than video. 
 
 Buy a podcaster microphone, as it has directed antenna and noise-cancelling capabilities.
+This enables you to talk headset-free.
 
 Our recommendation is the [Blue Yeti](https://www.bluedesigns.com/products/yeti/) ($129). Switch it to cardioid mode. Consider a [Compass boom arm](https://www.bluedesigns.com/products/compass/) ($99) for perfect positioning.
 
-### Camera
 ### Headset
+
+Don't use a headset, if you can.
+
+### Camera
+
+
 ### Monitor
 ### Wifi
 
