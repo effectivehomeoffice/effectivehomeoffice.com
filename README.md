@@ -29,8 +29,7 @@ Make sure to look directly to each other in video conferences.
 For that, the webcam must be on eye-level (or slightly above).
 This rules out your laptop's built-in camera as it's mounted too low.
 Instead, get an external webcam and mount in on top of your primary screen.
-We just a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) ($79).
-And no, no one needs 4K or 60fps.
+We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) ($79).
 
 ### Computer monitor
 
