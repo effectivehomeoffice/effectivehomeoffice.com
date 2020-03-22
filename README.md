@@ -52,6 +52,15 @@ Please give us a hint, if you have better alternatives.
 
 ### Wi-Fi
 
+Avoid using Wi-Fi, if you can.
+
+Use a simple [Cat 7 ethernet cable](https://www.amazon.com/AmazonBasics-Network-Ethernet-Patch-Cable/dp/B013PUMX8I) to connect your computer to your router.
+This provides a reliable stable and fast connection.
+
+If you cannot use an ethernet cable, consider [Power-line communication](https://en.avm.de/products/fritzpowerline/fritzpowerline-1240e-wlan-set/).
+
+If you need better Wi-Fi, we recommend Ubiquiti [Unifi](https://unifi-network.ui.com/) and [Amplifi](https://amplifi.com/).
+
 ## Software
 
 ### Video Conferencing
