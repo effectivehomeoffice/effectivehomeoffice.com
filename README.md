@@ -22,7 +22,7 @@ Our recommendation is the [Blue Yeti](https://www.bluedesigns.com/products/yeti/
 
 Don't use a headset, if you can.
 
-In an environment where you need a headset (2 persons in the same room), you might consider a [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) headset, that matches your wearing preferences.
+In an environment where you need a headset (2 persons in the same room), you might consider a [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) headset, that matches your wearing preferences. Many prefer the [Evolve 65](https://www.jabra.com.de/business/office-headsets/jabra-evolve/jabra-evolve-65).
 
 For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
 
@@ -52,14 +52,25 @@ Please give us a hint, if you have better alternatives.
 
 ### Wi-Fi
 
-Avoid using Wi-Fi, if you can.
+Avoid using Wi-Fi, if you can. 
+Connection disruptions are annoying for everyone. 
 
 Use a simple [Cat 7 ethernet cable](https://www.amazon.com/AmazonBasics-Network-Ethernet-Patch-Cable/dp/B013PUMX8I) to connect your computer to your router.
-This provides a reliable stable and fast connection.
+This provides a reliable and fast connection.
 
-If you cannot use an ethernet cable, consider [Power-line communication](https://en.avm.de/products/fritzpowerline/fritzpowerline-1240e-wlan-set/).
+If you cannot use an ethernet cable, evaluate [Power-line communication](https://en.avm.de/products/fritzpowerline/fritzpowerline-1240e-wlan-set/), which is still more reliable than Wi-Fi.
 
 If you need better Wi-Fi, we recommend Ubiquiti [Unifi](https://unifi-network.ui.com/) and [Amplifi](https://amplifi.com/).
+
+### iPad
+
+
+### Advanced
+
+- Document Camera
+- [Soft Light](https://www.elgato.com/en/gaming/key-light)
+- [Green Screen](https://www.elgato.com/en/gaming/green-screen)
+
 
 ## Software
 
