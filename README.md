@@ -21,7 +21,7 @@ We recommend the [Blue Yeti](https://www.bluedesigns.com/products/yeti/) ($129).
 
 ### Headset
 
-Don't use a headset. If you really have to, get the [Evolve 65](https://www.jabra.com.de/business/office-headsets/jabra-evolve/jabra-evolve-65), or any of the [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) family. For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
+Don't use a headset. If you really have to, get the [Jabra Evolve 65](https://www.jabra.com.de/business/office-headsets/jabra-evolve/jabra-evolve-65), or any of the [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) family. For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
 
 ### Webcam
 
