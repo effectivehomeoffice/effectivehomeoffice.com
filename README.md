@@ -50,9 +50,10 @@ Ask us anything on Twitter with [#effectivehomeoffice](https://twitter.com/hasht
 ## Things you should stop doing
 
 
-## Discuss
+## Discuss and Contribute
 
 Ask us anything on Twitter with [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice).
 
+To contribute, create a pull request on [Github](https://github.com/effectivehomeoffice/effectivehomeoffice.com).
 
 ## Authors
