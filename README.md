@@ -1,5 +1,3 @@
-# Effective Home Office
-
 // TODO: Hier Bild von Simons Schreibtisch
 
 An opinionated guide to effectively work from home.
