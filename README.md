@@ -81,6 +81,9 @@ If you need better Wi-Fi, we recommend Ubiquiti [Unifi](https://unifi-network.ui
 
 ### iPad
 
+### Office Chair
+
+Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair).
 
 ### Advanced
 
