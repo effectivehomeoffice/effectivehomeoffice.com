@@ -29,20 +29,12 @@ For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are ju
 
 ### Webcam
 
-The camera itself is not super important. 
-A decent webcam is sufficient. 
-Nobody needs 4K. 
-60fps is a nice-to-have. 
-We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) ($79).
-
-More important is the position of the webcam.
 Make sure to look directly to each other in video conferences.
-You should put the webcam on top of your primary screen.
-The webcam should be on eye-level (or slightly above).
-
-Don't use your laptop's built-in camera.
-It is mounted too low.
-
+For that, the webcam must be on eye-level (or slightly above).
+This rules out your laptop's built-in camera as it's mounted too low.
+Instead, get an external webcam and mount in on top of your primary screen.
+We just a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) ($79).
+And no, no one needs 4K or 60fps.
 
 ### Computer monitor
 
