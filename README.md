@@ -84,7 +84,7 @@ If you need better Wi-Fi, we recommend Ubiquiti [Unifi](https://unifi-network.ui
 ### Desk
 
 Make sure that your desk is at the perfect height.
-It should not jiggle when moving the mouse.
+It should not jiggle when moving the mouse or bumping the leg of the table.
 
 We recommend a timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
 
