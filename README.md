@@ -42,7 +42,7 @@ Our requirements:
 - _Good speakers_. The voices of your communication partners should come from the direction of the video stream. Crystal clear. 2 x 2 Watt speakers are not.
 - _Accurate colors_. Not super important for most work. Colors should be OK.
 - _Height-adjustable_. For ergonomics.
-- _Thunderbolt 3 or USB-C_. State of the art connectivity. We would love to finally get rid of our Thunderbolt docks.
+- _Thunderbolt 3 or USB-C_. State-of-the-art connectivity. We would love to finally get rid of our Thunderbolt docks.
 - _Thin margins_. Design matters.
 
 As already stated, unfortunately none of current displays match these requirements. 
