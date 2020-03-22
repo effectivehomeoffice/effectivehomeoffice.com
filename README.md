@@ -40,7 +40,7 @@ You should put the webcam on top of your primary screen.
 The webcam should be on eye-level (or slightly above).
 
 Don't use your laptop's built-in camera.
-It is mounted to low.
+It is mounted too low.
 
 
 ### Computer monitor
