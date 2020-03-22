@@ -85,6 +85,13 @@ If you need better Wi-Fi, we recommend Ubiquiti [Unifi](https://unifi-network.ui
 
 Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair).
 
+### Desk
+
+Make sure that your desk is at the perfect height.
+And it should not jiggle when moving the mouse.
+
+We recommend a timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
+
 ### Advanced
 
 - Document Camera
