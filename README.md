@@ -146,5 +146,7 @@ To contribute, create a pull request on [Github](https://github.com/effectivehom
 
 ## Authors
 
-@simonharrer and @jochen_christ
+[@simonharrer](https://twitter.com/simonharrer) and [@jochen_christ](https://twitter.com/jochen_christ)
 
+<script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
+<noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
