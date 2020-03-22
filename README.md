@@ -1,4 +1,4 @@
-# Effective Home Office
+# Effective Home Office: An Opinionated Guide to Effectively Work from Home.
 
 ![Effective Home Office](images/header.jpeg)
 
