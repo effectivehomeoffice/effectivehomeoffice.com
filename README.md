@@ -82,7 +82,7 @@ Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair
 - [Soft Light](https://www.elgato.com/en/gaming/key-light)
 - [Green Screen](https://www.elgato.com/en/gaming/green-screen)
 
-## Video Conferencing
+## Video Conferences
 
 Use [zoom.us](https://zoom.us/). 
 
@@ -118,7 +118,6 @@ No: Skype, IRC, ...
 - https://github.com/remotemobprogramming/mob
 
 
-## Video Conferences
 
 
 ## Check-Ins
