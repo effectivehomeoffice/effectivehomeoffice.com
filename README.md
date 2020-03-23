@@ -1,16 +1,15 @@
 # Effective Home Office
 
-An opinionated guide to effectively work from home.
+An [opinionated](#why-opinionated) guide to effectively work from home.
 
 ![Effective Home Office](images/header.jpeg)
 
-In our talks and articles about working from home, [we](#authors) get frequently asked about the hardware and software we use. We want to provide our tips for a successful setup to work from home, being it tips on [hardware](#hardware), [software](#software), [methods](#methods), or, the most important aspect, [health](#health). Happy reading!
+In our talks and articles about working from home, [we](#authors) get frequently asked about the hardware and software we use. We want to provide our tips for a successful setup to work from home, being it tips on hardware, software, methods, or, the most important aspect, health. Happy reading!
 
 Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice) for questions, comments, praise, or critique.
 
-## Hardware
 
-### Microphone
+## Microphone
 
 <img src="images/yeti.png" align="right" width="150">
 
@@ -19,11 +18,11 @@ Sadly, common headset-free "solutions" let every listener suffer from bad audio 
 To have happy listeners instead, get a podcaster microphone with directed antenna and noise-cancelling capabilities.
 We recommend the [Blue Yeti](https://www.bluedesigns.com/products/yeti/) ($129). Set it to cardioid mode.
 
-### Headset
+## Headset
 
 Don't use a headset. If you really have to, get the [Jabra Evolve 65](https://www.jabra.com.de/business/office-headsets/jabra-evolve/jabra-evolve-65), or any of the [Jabra Evolve](https://www.jabra.com.de/business/office-headsets/jabra-evolve) family. For occasional calls, the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
 
-### Webcam
+## Webcam
 
 Make sure to look directly to each other in video conferences.
 For that, the webcam must be on eye-level (or slightly above).
@@ -31,7 +30,7 @@ This rules out your laptop's built-in camera as it's mounted too low.
 Instead, get an external webcam and mount in on top of your primary screen.
 We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) ($79).
 
-### Computer monitor
+## Computer monitor
 
 Currently, there is no display available that we can recommend.
 
@@ -55,38 +54,35 @@ We have different opinions about the usage of a second screen.
 So, we won't give any recommendations here.
 
 
-### Wi-Fi
+## Wi-Fi
 
 Connection disruptions are annoying for everyone.
 For a reliable and fast connection, use a [Cat 7 ethernet cable](https://www.amazon.com/AmazonBasics-Network-Ethernet-Patch-Cable/dp/B013PUMX8I) to connect your computer to your router.
 If you have to resort to Wi-Fi, invest, for the sake of your team, in high quality access points.
 We recommend Ubiquiti [Unifi](https://unifi-network.ui.com/) and [Amplifi](https://amplifi.com/).
 
-### iPad
+## iPad
 
 - iPad Pro with Apple Pencil 2
 
-### Desk
+## Desk
 
 Make sure that your desk is at the perfect height.
 It should not jiggle when moving the mouse or bumping the leg of the table.
 
 We like the timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
 
-### Office Chair
+## Office Chair
 
 Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
 
-### Advanced
+## Advanced
 
 - Document Camera
 - [Soft Light](https://www.elgato.com/en/gaming/key-light)
 - [Green Screen](https://www.elgato.com/en/gaming/green-screen)
 
-
-## Software
-
-### Video Conferencing
+## Video Conferencing
 
 Use [zoom.us](https://zoom.us/). 
 
@@ -106,50 +102,46 @@ It runs in the browser using WebRTC, so no one has to install a client or browse
 This significantly lowers the barrier to join an online meeting.
 
 
-### Team Chat
+## Team Chat
 
 - Slack
 - Microsoft Teams
 
 No: Skype, IRC, ...
 
-### Pair Programming
+## Pair Programming
 
 - https://tuple.app/
 
-### mob
+## mob
 
 - https://github.com/remotemobprogramming/mob
 
 
-## Methods
-
-### Video Conferences
+## Video Conferences
 
 
-### Check-Ins
+## Check-Ins
 
 - Basecamp Check-Ins https://basecamp.com/features/checkins
 
-### Pairing
-### Mob Programming
+## Pairing
+## Mob Programming
 - https://www.remotemobprogramming.org/
 
-### Employee Readme
-### Topic and Team Chat Channels
+## Employee Readme
+## Topic and Team Chat Channels
 - Domain topic specific channels.
 - public team channel.
 - private Team-only channel.
 - Fun and small talk channel.
 
-## Health
-
-### Ergonomics
-### Desk Positioning
-### Hygiene matters
-### CO2 meter
-### AFK Breaks
-### Lunch Break
+## Ergonomics
+## Desk Positioning
+## Hygiene matters
+## CO2 meter
+## AFK Breaks
+## Lunch Break
 
 
 ## Further Guides
@@ -161,6 +153,10 @@ No: Skype, IRC, ...
 [The Remote Work Playbook by Thoughtworks](https://www.thoughtworks.com/remote-work-playbook) is ...
 
 ## Things you should stop doing
+
+
+
+## Why Opinionated
 
 
 ## Discuss and Contribute
