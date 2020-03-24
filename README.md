@@ -85,10 +85,17 @@ This significantly lowers the barrier to join an online meeting.
 
 ## Team Chat
 
-- Slack
-- Microsoft Teams
+Working from home changes communication structures: The bar for informal discussions is higher. 
+Use topic specific chat rooms with [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/), in which everyone can get answers uncomplicatedly and informally. 
+Knowledge is shared company-wide, as interested colleagues read along.
 
-No: Skype, IRC, ...
+We recommend these types of channels:
+
+- Domain topic channels to discuss domain specific issues across all involved teams
+- Public team channel as an interface for others to your team
+- Private team-only channel to discuss internal or sensitive subjects
+- Fun and small talk channel to keep other channels clutter-free
+
 
 ## Collaborative Whiteboard
 
@@ -119,12 +126,6 @@ What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/
 
 - https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/
 - https://engineering.tes.com/post/personal-readme-experiment/
-
-## Topic and Team Chat Channels
-- Domain topic specific channels.
-- public team channel.
-- private Team-only channel.
-- Fun and small talk channel.
 
 ## Ergonomics
 
