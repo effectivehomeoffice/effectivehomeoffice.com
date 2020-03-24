@@ -104,24 +104,26 @@ This significantly lowers the barrier to join an online meeting.
 
 No: Skype, IRC, ...
 
-## Pair Programming
+## Check-Ins
+
+- Basecamp Check-Ins https://basecamp.com/features/checkins
+
+## Pairing
 
 - https://tuple.app/
+
+
+## Mob Programming and Full-Team Collaboration
+
+- https://www.remotemobprogramming.org/
 
 ## mob
 
 - https://github.com/remotemobprogramming/mob
 
 
-## Check-Ins
-
-- Basecamp Check-Ins https://basecamp.com/features/checkins
-
-## Pairing
-## Mob Programming
-- https://www.remotemobprogramming.org/
-
 ## Employee Readme
+
 ## Topic and Team Chat Channels
 - Domain topic specific channels.
 - public team channel.
