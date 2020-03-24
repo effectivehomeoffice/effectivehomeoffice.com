@@ -20,5 +20,11 @@ As a workaround, a _personal meeting room_ can be configured to act as a virtual
 - Select _Enable join before host_
 - Disable _Enable waiting room_
 - Save
-- The meeting URL (e. g. https://zoom.us/j/2813412350) is your meeting room.
+- The meeting URL (e. g. https://zoom.us/j/2813412350) is your virtual team meeting room.
+
+Additional recommended settings:
+- Settings -> In Meeting (Advanced) -> Disable _Attention tracking_ for privacy reasons
+- Settings -> In Meeting (Advanced) -> Enable _Show a "Join from your browser" link_ to enable plain Browser participants
+- Settings -> Email Notification -> Disable _When attendees join meeting before host_ to reduce email notifications
+
 
