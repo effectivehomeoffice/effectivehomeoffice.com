@@ -65,22 +65,17 @@ We recommend Ubiquiti [Unifi](https://unifi-network.ui.com/) and [Amplifi](https
 
 - iPad Pro with Apple Pencil 2
 
+## Office Chair
+
+Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
+
 ## Desk
 
 Make sure that your desk is at the perfect height.
 It should not jiggle when moving the mouse or bumping the leg of the table.
 
-We like the timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
+Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
 
-## Office Chair
-
-Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
-
-## Advanced
-
-- Document Camera
-- [Soft Light](https://www.elgato.com/en/gaming/key-light)
-- [Green Screen](https://www.elgato.com/en/gaming/green-screen)
 
 ## Video Conferences
 
@@ -118,8 +113,6 @@ No: Skype, IRC, ...
 - https://github.com/remotemobprogramming/mob
 
 
-
-
 ## Check-Ins
 
 - Basecamp Check-Ins https://basecamp.com/features/checkins
@@ -142,6 +135,11 @@ No: Skype, IRC, ...
 ## AFK Breaks
 ## Lunch Break
 
+## Advanced
+
+- Document Camera
+- [Soft Light](https://www.elgato.com/en/gaming/key-light)
+- [Green Screen](https://www.elgato.com/en/gaming/green-screen)
 
 ## Further Guides
 
