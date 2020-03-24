@@ -33,7 +33,9 @@ We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-
 ## Monitor
 
 Don't work primarily on your notebook monitor for ergonomic reasons. 
-Get an external display. Our requirements:
+Get an external display. 
+
+Our requirements for an external display:
 
 - _27" to 30" diagonal_. Not too small and not too big. Your workspace should fit on one full-screen.
 - _No ultra-wide_. Use a popular aspect ratio, so others can see your full screen when screen sharing.
