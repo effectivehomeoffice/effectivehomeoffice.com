@@ -159,12 +159,13 @@ Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/re
 
 [The Remote Work Playbook by Thoughtworks](https://www.thoughtworks.com/remote-work-playbook) is ...
 
-## Things you should stop doing
-
-
 
 ## Why Opinionated
 
+We don't want to give you lists of all available tools and software out there.
+We provide a curated selection that worked well for us during the last years working from home.
+We may have our individual preferences and dislikes and the selection may not always represent the most sophisticated or cheapest solution out there.
+Everything is our own and honest opinion.
 
 ## Discuss and Contribute
 
