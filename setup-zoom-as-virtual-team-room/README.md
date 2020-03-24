@@ -11,5 +11,14 @@ As a workaround, a _personal meeting room_ can be configured to act as a virtual
 
 ![zoom-personal-meeting.png](zoom-personal-meeting.png)
 
-
+- Create a new zoom.us account
+- Consider to upgrade to Pro ($14.99/mo) to bypass the 40 mins limit
+- On the zoom.us website log in
+- Navigate to _Meetings_ and then _Personal Meeting Room_
+- _Edit this Meeting_
+- Enable _Video_ for Host and Participant
+- Select _Enable join before host_
+- Disable _Enable waiting room_
+- Save
+- The meeting URL (e. g. https://zoom.us/j/2813412350) is your meeting room.
 
