@@ -122,7 +122,10 @@ No: Skype, IRC, ...
 - https://github.com/remotemobprogramming/mob
 
 
-## Employee Readme
+## User Manuals
+
+- https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/
+- https://engineering.tes.com/post/personal-readme-experiment/
 
 ## Topic and Team Chat Channels
 - Domain topic specific channels.
