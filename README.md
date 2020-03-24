@@ -31,12 +31,12 @@ We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-
 ## Monitor
 
 Don't work primarily on your notebook monitor for ergonomic reasons. 
-Get an external 27" to 30" display. 
+Get an external 27" to 30" height-adjustable display. 
 4K resolution is required to show scaled content sharply.
 No ultra-wide or 5K+: Use a popular resolution, so others can display your screen when shared.
 We would love to have webcam built-in, good speakers and Thunderbolt 3 in a beautiful design.
 Unfortunately none of currently available monitors matches these requirements. 
-So, we bought cheap 4K IPS displays and a Thunderbolt Dock, external webcam, and speakers. 
+So, we bought a standard 4K IPS display ([EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2785/index.html)), and a Thunderbolt Dock, external webcam, and speakers. 
 Please give us a hint, if you have better alternatives.
 
 ## Wi-Fi
