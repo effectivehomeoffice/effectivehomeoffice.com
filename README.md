@@ -129,8 +129,10 @@ Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/re
 ## Desk Positioning
 ## Hygiene matters
 ## CO2 meter
-## AFK Breaks
-## Lunch Break
+
+## Breaks
+
+Have breaks away from keyboard!
 
 ## Advanced
 
