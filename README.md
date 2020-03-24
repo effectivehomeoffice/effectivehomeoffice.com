@@ -69,18 +69,9 @@ We can't live without the moveable video stream gallery overlay while screen sha
 
 ## Virtual Team Room
 
-
-One of the few downsides: 
-A meeting is always bound to a host.
-There is no concept of a virtual team room, where anyone can join and go as they like.
-The dependency to a single specific host user should definitly be avoided. 
-There is a workaround to [setup Zoom as virtual team room](/setup-zoom-as-virtual-team-room).
-
-When meeting with other teams or partners, we prefer to use [whereby.com](https://whereby.com/).
-With Whereby, a virtual room is just a URL, such as _https://whereby.com/effectivehomeoffice_.
-It runs in the browser using WebRTC, so no one has to install a client or browser plugin.
-This significantly lowers the barrier to join an online meeting.
-
+A virtual team room is like a video conference that's always available -- you can come and go anytime.
+Zoom doesn't support the concept of a virtual team room directly, [but there's a workaround](/setup-zoom-as-virtual-team-room).
+Make sure that your team room is for your team only, and any meetings with other teams happen in separate, dedicated virtual meeting rooms.
 
 ## Team Chat
 
