@@ -40,11 +40,11 @@ Our requirements for an external display:
 - _27" to 30" diagonal_. Not too small and not too big. Your workspace should fit on one full-screen.
 - _No ultra-wide_. Use a popular aspect ratio, so others can see your full screen when screen sharing.
 - _4K resolution_. 4K is required for screen sharing, as the screen may be fitted or zoomed to your screen. 4K helps here a lot. 5K or more is not recommended, as others might have problems to display it correctly. 
-- _Webcam built-in_. As stated below, the webcam should be as close to the main screen as possible. So it should be built-in and horizontally centered. 
+- _Webcam built-in_. The webcam should be as close to the main screen as possible. It should be built-in and horizontally centered. 
 - _Good speakers_. The voices of your communication partners should come crystal clear from the direction of the video stream. 2-Watt speakers are not crystal clear.
 - _Accurate colors_. Not super important for most work. Colors should be OK.
 - _Height-adjustable_. For ergonomics.
-- _Thunderbolt 3 or USB-C_. State-of-the-art connectivity. We would love to finally get rid of our Thunderbolt docks.
+- _Thunderbolt 3_. We would love to finally get rid of our Thunderbolt docks.
 - _Thin margins_. Design matters.
 
 Unfortunately none of currently available monitors matches these requirements. 
