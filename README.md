@@ -75,8 +75,10 @@ Make sure that your team room is for your team only, and any meetings with other
 
 ## Team Chat
 
-Working from home changes communication structures: The bar for informal discussions is higher. 
-Use topic specific chat rooms with [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/), in which everyone can get answers uncomplicatedly and informally. 
+Working from home changes communication structures: The bar for informal discussions with others is higher. 
+Use topic specific chat rooms with [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/), in which everyone can get answers uncomplicatedly and informally.
+Communication is asynchronously and does not interupt one's flow.
+Disable notifications.
 Knowledge is shared company-wide, as interested colleagues read along.
 
 We recommend these types of channels:
