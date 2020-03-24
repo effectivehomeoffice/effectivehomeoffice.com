@@ -52,7 +52,7 @@ We bought cheap 4K IPS displays and a Thunderbolt Dock, external Webcam, and use
 Please give us a hint, if you have better alternatives.
 
 We have different opinions about the usage of a second screen.
-So, we won't give any recommendations here.
+So, we won't give any advice here.
 
 
 ## Wi-Fi
