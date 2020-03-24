@@ -32,9 +32,7 @@ We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-
 
 ## Computer monitor
 
-Currently, there is no display available that we can recommend.
-
-Our requirements:
+Don't work on our notebook monitor. Get an external display. Our requirements:
 
 - _27" to 30" diagonal_. Not too small and not too big. Your workspace should fit on one full-screen.
 - _No ultra-wide_. Use a popular aspect ratio, so others can see your full screen when screen sharing.
@@ -46,7 +44,7 @@ Our requirements:
 - _Thunderbolt 3 or USB-C_. State-of-the-art connectivity. We would love to finally get rid of our Thunderbolt docks.
 - _Thin margins_. Design matters.
 
-As already stated, unfortunately none of current displays match these requirements. 
+Unfortunately none of currently available monitors matches these requirements. 
 We bought cheap 4K IPS displays and a Thunderbolt Dock, external Webcam, and use the MacBook speakers. 
 Please give us a hint, if you have better alternatives.
 
