@@ -94,7 +94,7 @@ No: Skype, IRC, ...
 
 We miss to scribble and discuss together on a real whiteboard.
 There is no good alternative for distributed teams.
-What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an Apple Pencil (https://www.apple.com/apple-pencil/) to draw. One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
+What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an [Apple Pencil] (https://www.apple.com/apple-pencil/) to draw. One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
 
 
 ## Check-Ins
