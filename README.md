@@ -31,7 +31,7 @@ We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-
 ## Monitor
 
 Don't work primarily on your notebook monitor for ergonomic reasons. 
-Get an external 27" to 30" height-adjustable display. 
+Get an external 27" to 30" display. 
 4K resolution is required to show scaled content sharply.
 No ultra-wide or 5K+: Use a popular resolution, so others can display your screen when shared.
 We would love to see a webcam built-in, good speakers and Thunderbolt 3 in a beautiful design.
