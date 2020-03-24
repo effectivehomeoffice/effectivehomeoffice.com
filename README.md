@@ -65,7 +65,7 @@ We recommend Ubiquiti [Unifi](https://www.ui.com/unifi/unifi-ap-ac-pro/) and [Am
 
 Use [zoom.us](https://zoom.us/). 
 It's the most mature, stable, and less CPU-intense video conferencing that we know and has good support for Linux and mobile devices.
-We can't live without the moveable video stream gallery overlay while screen sharing anymore.
+We can't live without the moveable video stream gallery overlay anymore, especially while screen sharing.
 
 ## Virtual Team Room
 
