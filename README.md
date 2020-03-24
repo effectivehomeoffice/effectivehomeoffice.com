@@ -11,8 +11,6 @@ Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](http
 
 ## Microphone
 
-<img src="images/yeti.png" align="right" width="150">
-
 Nobody wants to wear a headset all day.
 Sadly, common integrated headset-free solutions in phones and notebooks let every listener suffer from bad audio and lots of noise.
 To have happy listeners instead, get a podcaster microphone with directed antenna and noise-cancelling capabilities.
@@ -66,10 +64,11 @@ We recommend Ubiquiti [Unifi](https://www.ui.com/unifi/unifi-ap-ac-pro/) and [Am
 ## Video Conferences
 
 Use [zoom.us](https://zoom.us/). 
+It's the most mature, stable, and less CPU-intense video conferencing that we know and has good support for Linux and mobile devices.
+We can't live without the moveable video stream gallery overlay while screen sharing anymore.
 
-Zoom is the most mature, stable, and less CPU-intense video conferencing that we know.
-It hat good support for Linux and mobile devices.
-We like the moveable video stream gallery view while screen sharing.
+## Virtual Team Room
+
 
 One of the few downsides: 
 A meeting is always bound to a host.
@@ -110,19 +109,14 @@ What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/
 
 ## Pairing
 
-- https://tuple.app/
-
+[Tuple](https://tuple.app/) (macOS only) sells itself as an even better pairing tool than the missed screenhero. We can't recommend it just yet as we haven't had the time to try it.
 
 ## Mob Programming and Full-Team Collaboration
 
 - https://www.remotemobprogramming.org/
-
-## mob
-
 - https://github.com/remotemobprogramming/mob
 
-
-## User Manuals
+## User Manuals or Personal READMEs
 
 - https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/
 - https://engineering.tes.com/post/personal-readme-experiment/
@@ -164,10 +158,10 @@ Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/re
 
 ## Why Opinionated
 
-We don't want to give you lists of all available tools and software out there.
-We provide a curated selection that worked well for us during the last years working from home.
-We may have our individual preferences and dislikes and the selection may not always represent the most sophisticated or cheapest solution out there.
-Everything is our own and honest opinion.
+Instead of providing yet another long list of tools, this guide contains a short, curated selection of things that worked well for us working from home during the last years.
+Everything is our own and honest opinion, and reflects our preferences, dislikes, and priorities.
+But as we all know, everybody is different. 
+So follow this guide with caution. Still, we do hope you can find one or two things that improves your work from home experience!
 
 ## Discuss and Contribute
 
