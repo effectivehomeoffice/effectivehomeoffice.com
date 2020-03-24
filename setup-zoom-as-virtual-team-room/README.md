@@ -29,6 +29,8 @@ Additional recommended settings (on website):
 
 Additional recommended settings (in Zoom Client Preferences):
 
+![zoom-settings-client-general.png](zoom-settings-client-general.png)
+
 - General -> Disable _Use dual monitors_. Put both participants and shared screen and on your primary screen to have eye contact.
 - General -> Enable _Maximize Zoom window when a participant shares their screen_. Focus.
 - General -> Disable _Side-by-side Mode_. This increases your screen estate.
