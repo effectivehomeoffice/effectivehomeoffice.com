@@ -23,6 +23,8 @@ As a workaround, a _personal meeting room_ can be configured to act as a virtual
 
 Additional recommended settings (on website):
 
+![zoom-settings-website.png](zoom-settings-website.png)
+
 - Settings -> In Meeting (Advanced) -> Disable _Attention tracking_ for privacy reasons
 - Settings -> In Meeting (Advanced) -> Enable _Show a "Join from your browser" link_ to enable plain Browser participants
 - Settings -> Email Notification -> Disable _When attendees join meeting before host_ to reduce email notifications
