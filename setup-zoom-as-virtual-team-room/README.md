@@ -11,7 +11,7 @@ As a workaround, a _personal meeting room_ can be configured to act as a virtual
 
 ![zoom-personal-meeting.png](zoom-personal-meeting.png)
 
-- Create a new zoom.us account
+- Sign up for a new zoom.us account
 - Consider to upgrade to Pro ($14.99/mo) to bypass the 40 mins limit
 - On the zoom.us website log in
 - Navigate to _Meetings_ and then _Personal Meeting Room_
