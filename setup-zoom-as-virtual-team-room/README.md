@@ -4,6 +4,7 @@
 
 However, it lacks support for a virtual team room, where everyone can join and leave at any time.
 Nobody wants to wait for a host to start a conference sessions.
+Try to minimize the steps and clicks to join online meetings.
 
 BTW: _Zoom Rooms_ is something entirely different. It is a solution for on-site conference rooms.
 
