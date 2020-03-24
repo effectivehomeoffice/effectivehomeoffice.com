@@ -44,7 +44,7 @@ Please give us a hint, if you have better alternatives.
 Connection disruptions are annoying for everyone.
 For a reliable and fast connection, use a [Cat 7 ethernet cable](https://www.amazon.com/AmazonBasics-Network-Ethernet-Patch-Cable/dp/B013PUMX8I) to connect your computer to your router.
 If you have to resort to Wi-Fi, invest, for the sake of your team, in high quality access points.
-We recommend Ubiquiti [Unifi](https://www.ui.com/unifi/unifi-ap-ac-pro/) and [Amplifi](https://amplifi.com/).
+We recommend Ubiquiti [Unifi](https://www.ui.com/unifi/unifi-ap-ac-pro/) and [Amplifi](https://amplifi.com/amplifi-hd).
 
 
 ## Video Conferences
