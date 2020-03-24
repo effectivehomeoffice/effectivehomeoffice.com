@@ -14,7 +14,7 @@ Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](http
 <img src="images/yeti.png" align="right" width="150">
 
 Nobody wants to wear a headset all day.
-Sadly, common headset-free "solutions" let every listener suffer from bad audio and lots of noise.
+Sadly, common built-in headset-free solutions in phones and notebooks let every listener suffer from bad audio and lots of noise.
 To have happy listeners instead, get a podcaster microphone with directed antenna and noise-cancelling capabilities.
 We recommend the [Blue Yeti](https://www.bluedesigns.com/products/yeti/) ($129). Set it to cardioid mode.
 
