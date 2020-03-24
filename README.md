@@ -30,9 +30,10 @@ This rules out your laptop's built-in camera as it's mounted too low.
 Instead, get an external webcam and mount in on top of your primary screen.
 We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) ($79).
 
-## Computer monitor
+## Monitor
 
-Don't work on our notebook monitor. Get an external display. Our requirements:
+Don't work on our notebook monitor for ergonomics reasons. 
+Get an external display. Our requirements:
 
 - _27" to 30" diagonal_. Not too small and not too big. Your workspace should fit on one full-screen.
 - _No ultra-wide_. Use a popular aspect ratio, so others can see your full screen when screen sharing.
