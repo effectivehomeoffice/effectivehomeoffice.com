@@ -61,21 +61,6 @@ For a reliable and fast connection, use a [Cat 7 ethernet cable](https://www.ama
 If you have to resort to Wi-Fi, invest, for the sake of your team, in high quality access points.
 We recommend Ubiquiti [Unifi](https://unifi-network.ui.com/) and [Amplifi](https://amplifi.com/).
 
-## iPad
-
-- iPad Pro with Apple Pencil 2
-
-## Office Chair
-
-Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
-
-## Desk
-
-Make sure that your desk is at the perfect height.
-It should not jiggle when moving the mouse or bumping the leg of the table.
-
-Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
-
 
 ## Video Conferences
 
@@ -103,6 +88,13 @@ This significantly lowers the barrier to join an online meeting.
 - Microsoft Teams
 
 No: Skype, IRC, ...
+
+## Collaborative Whiteboard
+
+We miss to scribble and discuss together on a real whiteboard.
+There is no good alternative for distributed teams.
+What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an Apple Pencil (https://www.apple.com/apple-pencil/) to draw. One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
+
 
 ## Check-Ins
 
@@ -134,6 +126,19 @@ No: Skype, IRC, ...
 - Fun and small talk channel.
 
 ## Ergonomics
+
+## Office Chair
+
+Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
+
+## Desk
+
+Make sure that your desk is at the perfect height.
+It should not jiggle when moving the mouse or bumping the leg of the table.
+
+Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
+
+
 ## Desk Positioning
 ## Hygiene matters
 ## CO2 meter
