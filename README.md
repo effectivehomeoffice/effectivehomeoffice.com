@@ -156,7 +156,7 @@ To contribute, create a pull request on [Github](https://github.com/effectivehom
 [Simon Harrer](https://twitter.com/simonharrer) is a senior consultant at INNOQ. As part of a remote mob, he fights everyday out for simple solutions with domain-driven design, fitting architectures such as microservices or monoliths, and clean code in Java, Ruby or even JavaScript. Most recently, he wrote the book [Java by Comparison](https://java.by-comparison.com) that helps Java beginners to write cleaner code through before/after comparisons.
 
 <img src="images/jochen-avatar.png" alt="Jochen" width="80" style="float:left; padding: 12px">
-[Jochen Christ](https://twitter.com/jochen_christ) is a senior consultant at INNOQ. He is an expert for Java technologies and cloud computing. He is interested in technical leadership, remote working methods, and badminton. Jochen is a speaker at international conferences and enjoys participating in local meetups.
+[Jochen Christ](https://twitter.com/jochen_christ) is a senior consultant at INNOQ. He is an expert for Java technologies and cloud architectures. He is interested in technical leadership, remote working methods, and badminton. Jochen is a speaker at international conferences and enjoys participating in local meetups.
 
 <div style="clear:both"/>
 
