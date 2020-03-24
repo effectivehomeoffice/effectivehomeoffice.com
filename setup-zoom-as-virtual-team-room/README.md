@@ -9,7 +9,7 @@ Zoom Rooms is something different (a solution fo on-site conference rooms).
 
 As a workaround, a _personal meeting room_ can be configured to act as a virtual team room:
 
-
+![zoom-personal-meeting.png](zoom-personal-meeting.png)
 
 
 
