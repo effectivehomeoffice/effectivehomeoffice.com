@@ -13,8 +13,7 @@ As a workaround, a _personal meeting room_ can be configured to act as a virtual
 
 - Sign up for a new zoom.us account
 - Consider to upgrade to Pro ($14.99/mo) to bypass the 40 mins limit
-- On the zoom.us website log in
-- Navigate to _Meetings_ and then _Personal Meeting Room_
+- On the zoom.us website log in and navigate to _Meetings_ and then _Personal Meeting Room_
 - _Edit this Meeting_
 - Enable _Video_ for Host and Participant
 - Select _Enable join before host_
@@ -23,6 +22,7 @@ As a workaround, a _personal meeting room_ can be configured to act as a virtual
 - The meeting URL (e. g. https://zoom.us/j/2813412350) is your virtual team meeting room.
 
 Additional recommended settings:
+
 - Settings -> In Meeting (Advanced) -> Disable _Attention tracking_ for privacy reasons
 - Settings -> In Meeting (Advanced) -> Enable _Show a "Join from your browser" link_ to enable plain Browser participants
 - Settings -> Email Notification -> Disable _When attendees join meeting before host_ to reduce email notifications
