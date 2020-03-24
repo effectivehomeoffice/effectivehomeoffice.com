@@ -89,10 +89,10 @@ One of the few downsides:
 A meeting is always bound to a host.
 There is no concept of a virtual team room, where anyone can join and go as they like.
 The dependency to a single specific host user should definitly be avoided. 
-A personal meeting room can be configured to act like a team room, but it takes some time, until everything is set up correctly.
+A personal meeting room can be configured to act like a team room, but it takes some time, until [everything is set up](/setup-zoom-as-team-room) correctly. 
 
 When meeting with other teams or partners, we prefer to use [whereby.com](https://whereby.com/).
-With Whereby, a virtual room is just a URL, such as https://whereby.com/effectivehomeoffice.
+With Whereby, a virtual room is just a URL, such as _https://whereby.com/effectivehomeoffice_.
 It runs in the browser using WebRTC, so no one has to install a client or browser plugin.
 This significantly lowers the barrier to join an online meeting.
 
