@@ -15,7 +15,7 @@ As a workaround, a _personal meeting room_ can be configured to act as a virtual
 - Consider to upgrade to Pro ($14.99/mo) to bypass the 40 mins limit
 - On the zoom.us website log in and navigate to _Meetings_ and then _Personal Meeting Room_
 - _Edit this Meeting_
-- Enable _Video_ for Host and Participant
+- Enable _Video_ for Host and Participant to have fewer clicks when starting the meeting.
 - Select _Enable join before host_
 - Disable _Enable waiting room_
 - Save
