@@ -32,10 +32,10 @@ We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-
 Don't work primarily on your notebook monitor for ergonomic reasons (also see [Webcam](#webcam)). 
 Get an external 27" 4K display. 
 Scale your content as it's easier on the eyes.
-No ultra-wide or 5K -- it's not worth it because it makes sharing your screen harder (resolutions don't with with the people looking at your shared screen)!
+No ultra-wide or 5K -- it's not worth it because it makes sharing your screen harder (resolutions don't match well)!
 We would love to see a webcam built-in, good speakers and Thunderbolt 3 in a beautiful design.
 Unfortunately none of currently available monitors matches these requirements. 
-So, we bought a reasonable 4K IPS display ([EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2785/index.html), $1000), and we're quite happy with it.
+So, we bought [EIZO EV2785 ($1000), a good 4K IPS display](https://www.eizoglobal.com/products/flexscan/ev2785/index.html), and we're quite happy with it.
 
 ## Wi-Fi
 
