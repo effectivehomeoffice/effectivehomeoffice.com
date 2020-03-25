@@ -106,7 +106,8 @@ One shares the Miro board in Zoom, so that everyone has focus on the same sectio
 
 ## Desk and Chair
 
-Advices on good desks and office chairs are quite rare, and probably subject to individual preferences. However, we would like to give some tips here, as well:
+Advices on good desks and office chairs are quite rare, and probably subject to individual preferences and budget. 
+However, we would like to give some tips here, as well:
 Jochen likes the height-adjustable timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
 Invest in your health and get a good chair, especially when you are working from home in the long term. 
 Ergonomic seating and beautiful design provides the fully customizable [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
@@ -122,8 +123,8 @@ We recommend a simple [co2 sensor with a warning light when to open your windows
 ## Breaks
 
 Have breaks away from keyboard! 
-It's tempting to check emails or read stuff online during a short break, but we recommend to really take your breaks seriously and walk away from your home office, get a cup of coffee or go for a short walk. 
-It really makes a difference! 
+It's tempting to check emails or read stuff online during a short break, but we recommend to take your breaks seriously and walk away from your home office, get a cup of coffee or go for a short walk. 
+It really makes a difference!
 And for lunch, take your time to cook a good meal. 
 Don't rush it to get back to work faster -- it's not worth it in the long run.
 
@@ -139,7 +140,7 @@ Stay tuned!
 
 [Remote Guide, by Gitlab](https://about.gitlab.com/company/culture/all-remote/) is a complete and very extensive collection on how to build a fully remote company, touching every aspect of that. It's basically the playbook of Gitlab itself, and is constantly improved from their own learnings.
 
-Both guides promote a strong asynchronous way of distributed work, while we prefer a synchronous whole team approach.
+Both guides strongly promote an asynchronous way of distributed work, while we prefer a synchronous whole team approach.
 So, find out what works best for you and your team.
 
 ## Authors
