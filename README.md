@@ -58,20 +58,11 @@ Make sure that your team room is for your team only, and any meetings with other
 
 ## Team API
 
-TBD: async comm
-Working from home changes communication structures: The bar for informal discussions with others is higher. 
-Use topic specific chat rooms with [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/), in which everyone can get answers uncomplicatedly and informally.
-Communication is asynchronously and does not interupt one's flow.
-Disable notifications.
-Knowledge is shared company-wide, as interested colleagues read along.
-
-We recommend these types of channels:
-
-- Domain topic channels to discuss domain specific issues across all involved teams
-- Public team channel as an interface for others to your team
-- Private team-only channel to discuss internal or sensitive subjects
-- Fun and small talk channel to keep other channels clutter-free
-
+Working from home changes communication structures: The bar for informal discussions with others is higher.
+Make it easy for other teams to get in touch with you.
+Have a public team channel in [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/) to give quick answers and discuss your domain questions.
+Publish relevant anouncements there.
+Use a separate private team channel for internal and sensitive subjects.
 
 ## Collaborative Whiteboard
 
