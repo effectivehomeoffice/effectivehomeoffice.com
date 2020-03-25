@@ -77,14 +77,16 @@ Use a separate private team channel for internal and sensitive subjects.
 We love [Remote Mob Programming](https://www.remotemobprogramming.org/).
 The whole team works together on the same thing, at the same time, in the same virtual space.
 Regardless of the term *programming*, these methods are suitable for any kind of knowledge work.
-This is how we fight social isolation and being super productive in terms of time-to-market.
-We developed the little tool [mob](https://github.com/remotemobprogramming/mob) for a smooth handover via git -- and we use it happily everyday.
+By collaborating so intensely in our [virtual team room](#virtual-team-room) we solve the typical home office issue of social isolation for us. 
+And with mob programming, we're being super productive in terms of time-to-market.
+One that we happily use everyday is our little tool [mob](https://github.com/remotemobprogramming/mob), which enables us to make smooth handovers via git.
 
 ## Pairing
 
 [Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. 
-It's the self-declared successor of the missed screenhero. 
-We can't wait to try it out and share our experiences here.
+It's the self-declared successor of the late screenhero. 
+However, [screen.co](https://screen.co), being developed by the original developer of screenhero., has also made it clear that it wants to become the successor of screenhero.
+We'll try both, and report to you who'll win this game of the screenhero throne.
 
 ## Collaborative Whiteboard
 
