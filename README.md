@@ -37,7 +37,7 @@ We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-
 
 ## Monitor
 
-Don't work primarily on your notebook monitor for ergonomic reasons and because of [issues with the webcam position](#webcam)). 
+Don't work primarily on your notebook monitor for ergonomic reasons and because of [issues with the webcam position](#webcam). 
 Get an external 27" 4K display. 
 Scale your content as it's easier on the eyes.
 No ultra-wide or 5K -- it's not worth it because it makes displaying your shared screen hard!
