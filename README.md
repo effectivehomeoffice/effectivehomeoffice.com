@@ -65,13 +65,6 @@ Have a public team channel in [Slack](https://slack.com/) or [Microsoft Teams](h
 Publish relevant anouncements there.
 Use a separate private team channel for internal and sensitive subjects.
 
-## Collaborative Whiteboard
-
-We miss to scribble and discuss together on a real whiteboard.
-There is no good alternative for distributed teams.
-What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an [Apple Pencil](https://www.apple.com/apple-pencil/) to draw. 
-One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
-
 ## Full-Team Collaboration
 
 We love [Remote Mob Programming](https://www.remotemobprogramming.org/).
@@ -86,6 +79,12 @@ We developed the little tool [mob](https://github.com/remotemobprogramming/mob) 
 It's the self-declared successor of the missed screenhero. 
 We can't wait to try it out and share our experiences here.
 
+## Collaborative Whiteboard
+
+We miss to scribble and discuss together on a real whiteboard.
+There is no good alternative for distributed teams.
+What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an [Apple Pencil](https://www.apple.com/apple-pencil/) to draw. 
+One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
 
 ## Check-Ins
 
@@ -96,16 +95,16 @@ We can't wait to try it out and share our experiences here.
 - https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/
 - https://engineering.tes.com/post/personal-readme-experiment/
 
-## Office Chair
+## Desk and Chair
 
-Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
+Advices on good desks and office chairs are quite rare, and probably subject to individual preferences.
 
-## Desk
-
-Make sure that your desk is at the perfect height.
-It should not jiggle when moving the mouse or bumping the leg of the table.
+However, we would like to give some tips here, as well:
 
 Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
+
+Ergonomic seating and beautiful design, fully customizable: 
+The [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
 
 ## CO2 meter
 
