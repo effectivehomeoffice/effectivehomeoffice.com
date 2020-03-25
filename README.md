@@ -106,7 +106,8 @@ One shares the Miro board in Zoom, so that everyone has focus on the same sectio
 
 ## Desk and Chair
 
-Advices on good desks and office chairs are quite rare, and probably subject to individual preferences. However, we would like to give some tips here, as well:
+Advices on good desks and office chairs are quite rare, and probably subject to individual preferences. 
+However, we would like to give some tips here, as well:
 Jochen likes the height-adjustable timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
 Invest in your health and get a good chair, especially when you are working from home in the long term. 
 Ergonomic seating and beautiful design provides the fully customizable [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
@@ -119,6 +120,13 @@ Thing is, your body realizes bad air quality too late -- your mental capacity is
 So be proactive, and measure the co2 levels in your room so your brain stays happy.
 We recommend a simple [co2 sensor with a warning light when to open your windows](https://www.amazon.de/dp/B00TH3OW4Q/).
 
+## Lighting and Green Screen
+
+Our colleagues at INNOQ who do professional remote trainings and online workshops use a green screen to have a clean background and soft lights for perfect illumination.
+This comes from professional video game streaming, and the [Elgato Key Light Air](https://www.elgato.com/en/gaming/key-light-air) and their [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
+We already ordered them to evaluate and will give feedback here. 
+Stay tuned!
+
 ## Breaks
 
 Have breaks away from keyboard! 
@@ -126,12 +134,6 @@ It's tempting to check emails or read stuff online during a short break, but we 
 It really makes a difference! 
 And for lunch, take your time to cook a good meal. 
 Don't rush it to get back to work faster -- it's not worth it in the long run.
-
-## Lighting and Green Screen
-
-We heard that, to step up the game of video streaming, giving trainings, or workshops online, [Soft Lights](https://www.elgato.com/en/gaming/key-light) and [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
-We already ordered them and will give feedback here. 
-Stay tuned!
 
 ## Further Guides
 
