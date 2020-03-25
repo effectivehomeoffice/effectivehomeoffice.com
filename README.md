@@ -114,18 +114,30 @@ Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/re
 
 
 ## Desk Positioning
+
 ## Hygiene matters
+
+
+
 ## CO2 meter
+
+You'd be suprised how quickly the oxygen in a small room runs low, affecting your mental capacity.
+The solution is simple: open your windows.
+Thing is, your body realizes bad air quality too late -- your mental capacity is already reduced at that point.
+So be proactive, and measure the co2 levels in your room so your brain stays happy.
+We recommend a simple [co2 sensor with a warning light when to open your windows](https://www.amazon.de/dp/B00TH3OW4Q/).
 
 ## Breaks
 
-Have breaks away from keyboard!
+Have breaks away from keyboard! It's tempting to check emails or read stuff online during a short break, but we recommend to really take your breaks seriously and walk away from your home office, get a cup of coffee or go for a short walk. It really makes a difference! And for lunch, take your time to cook a good meal. Don't rush it to get back to work faster -- it's not worth it in the long run.
 
-## Advanced
+## Lighting
 
-- Document Camera
-- [Soft Light](https://www.elgato.com/en/gaming/key-light)
-- [Green Screen](https://www.elgato.com/en/gaming/green-screen)
+[Soft Light](https://www.elgato.com/en/gaming/key-light)
+
+## Green Screen
+
+[Green Screen](https://www.elgato.com/en/gaming/green-screen)
 
 ## Further Guides
 
