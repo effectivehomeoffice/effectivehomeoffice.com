@@ -6,8 +6,7 @@ An [opinionated](#why-opinionated) guide to effectively work from home.
 
 In our talks and articles about working from home, [we](#authors) get frequently asked about the hardware and software we use. We want to provide our tips for a successful setup to work from home, being it tips on hardware, software, methods, or, the most important aspect, health. Happy reading!
 
-Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice) for questions, comments, praise, or critique.
-
+Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice) or via email at [hello@effectivehomeoffice.com](mailto:hello@effectivehomeoffice.com) for questions, comments, praise, or critique.
 
 ## Microphone
 
@@ -86,9 +85,9 @@ What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/
 
 - Basecamp Check-Ins https://basecamp.com/features/checkins
 
-## Pairing
+## Remote Pair Programming
 
-[Tuple](https://tuple.app/) (macOS only) sells itself as an even better pairing tool than the missed screenhero. We can't recommend it just yet as we haven't had the time to try it.
+[Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. It's the self-declared successor of the missed screenhero. We can't wait to try it out and share our experiences with it on this website.
 
 ## Mob Programming and Full-Team Collaboration
 
@@ -130,12 +129,11 @@ Have breaks away from keyboard!
 
 ## Further Guides
 
-[Remote: By DHH](https://basecamp.com/books/remote) is ...
+[Remote: Office Not Required, by David Heinemeier Hansson and Jason Fried](https://basecamp.com/books/remote) is a great starting point for ideas on making the switch to remote. It covers a wide range of topics, including recruiting.
 
-[Remote Guide by Gitlab](https://about.gitlab.com/company/culture/all-remote/) is ...
+[Remote Guide, by Gitlab](https://about.gitlab.com/company/culture/all-remote/) is a complete and very extensive collection on how to build a fully remote company, touching every aspect of that. It's basically the playbook of Gitlab itself, and is constantly improved from their own learnings.
 
-[The Remote Work Playbook by Thoughtworks](https://www.thoughtworks.com/remote-work-playbook) is ...
-
+[The Remote Work Playbook, by Thoughtworks](https://www.thoughtworks.com/remote-work-playbook) is ...
 
 ## Why Opinionated
 
@@ -144,19 +142,13 @@ Everything is our own and honest opinion, and reflects our preferences, dislikes
 But as we all know, everybody is different. 
 So follow this guide with caution. Still, we do hope you can find one or two things that improves your work from home experience!
 
-## Discuss and Contribute
-
-Ask us anything [on Twitter with #effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice) or [via email at hello@effectivehomeoffice.com](mailto:hello@effectivehomeoffice.com).
-
-To contribute, create a pull request on [Github](https://github.com/effectivehomeoffice/effectivehomeoffice.com).
-
 ## Authors
 
 <img src="images/simon-avatar.png" alt="Simon" width="80" style="float:left; padding: 12px">
-[Simon Harrer](https://twitter.com/simonharrer) is a senior consultant at INNOQ. As part of a remote mob, he fights everyday out for simple solutions with domain-driven design, fitting architectures such as microservices or monoliths, and clean code in Java, Ruby or even JavaScript. Most recently, he wrote the book [Java by Comparison](https://java.by-comparison.com) that helps Java beginners to write cleaner code through before/after comparisons.
+[Simon Harrer](https://twitter.com/simonharrer) is a senior consultant at [INNOQ](https://www.innoq.com). As part of a remote mob, he fights everyday out for simple solutions with domain-driven design, fitting architectures such as microservices or monoliths, and clean code in Java, Ruby or even JavaScript. Most recently, he wrote the book [Java by Comparison](https://java.by-comparison.com) that helps Java beginners to write cleaner code through before/after comparisons.
 
 <img src="images/jochen-avatar.png" alt="Jochen" width="80" style="float:left; padding: 12px">
-[Jochen Christ](https://twitter.com/jochen_christ) is a senior consultant at INNOQ. He is an expert for Java technologies and cloud architectures. He is interested in technical leadership, remote working methods, and badminton. Jochen is a speaker at international conferences and enjoys participating in local meetups.
+[Jochen Christ](https://twitter.com/jochen_christ) is a senior consultant at [INNOQ](https://www.innoq.com). He is an expert for Java technologies and cloud architectures. He is interested in technical leadership, remote working methods, and badminton. Jochen is a speaker at international conferences and enjoys participating in local meetups.
 
 <div style="clear:both"/>
 
