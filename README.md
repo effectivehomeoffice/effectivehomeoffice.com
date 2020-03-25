@@ -102,11 +102,6 @@ It really makes a difference!
 And for lunch, take your time to cook a good meal. 
 Don't rush it to get back to work faster -- it's not worth it in the long run.
 
-## Personal READMEs
-
-- https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/
-- https://engineering.tes.com/post/personal-readme-experiment/
-
 ## Desk and Chair
 
 Advices on good desks and office chairs are quite rare, and probably subject to individual preferences and budget. 
