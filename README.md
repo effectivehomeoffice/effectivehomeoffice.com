@@ -60,7 +60,7 @@ We can't live without the moveable video stream gallery overlay anymore, especia
 
 ## Virtual Team Room
 
-A *virtual team room* in a video conference that's always available -- you can come and go anytime.
+A *virtual team room* is a video conference that's always available -- you can come and go anytime.
 Zoom doesn't support the concept of a virtual team room directly, [but you can get close by configuring your personal meetings in a specific way](/setup-zoom-as-virtual-team-room).
 We use such a virtual team room all the time to work together, for plannings and meetings, and for small talk.
 Make sure that your team room is for your team only, and any meetings with other teams happen in separate, dedicated *virtual meeting rooms*.
