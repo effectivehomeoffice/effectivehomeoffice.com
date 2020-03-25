@@ -57,8 +57,9 @@ A virtual team room is like a video conference that's always available -- you ca
 Zoom doesn't support the concept of a virtual team room directly, [but there's a workaround](/setup-zoom-as-virtual-team-room).
 Make sure that your team room is for your team only, and any meetings with other teams happen in separate, dedicated virtual meeting rooms.
 
-## Team Chat
+## Team API
 
+TBD: async comm
 Working from home changes communication structures: The bar for informal discussions with others is higher. 
 Use topic specific chat rooms with [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/), in which everyone can get answers uncomplicatedly and informally.
 Communication is asynchronously and does not interupt one's flow.
@@ -86,7 +87,7 @@ What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/
 
 ## Pairing
 
-[Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. It's the self-declared successor of the missed screenhero. We can't wait to try it out and share our experiences with it on this website.
+[Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. It's the self-declared successor of the missed screenhero. We can't wait to try it out and share our experiences here.
 
 ## Full-Team Collaboration
 
@@ -101,8 +102,6 @@ We developed the little tool [mob](https://github.com/remotemobprogramming/mob) 
 - https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/
 - https://engineering.tes.com/post/personal-readme-experiment/
 
-## Ergonomics
-
 ## Office Chair
 
 Ergonomic seating and beautiful design, fully customizable: [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
@@ -113,13 +112,6 @@ Make sure that your desk is at the perfect height.
 It should not jiggle when moving the mouse or bumping the leg of the table.
 
 Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
-
-
-## Desk Positioning
-
-## Hygiene matters
-
-
 
 ## CO2 meter
 
