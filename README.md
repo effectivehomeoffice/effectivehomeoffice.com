@@ -66,11 +66,12 @@ Make sure that your team room is for your team only, and any meetings with other
 
 ## Team API
 
-Working from home changes communication structures: The bar for informal discussions with others is higher.
-Make it easy for other teams to get in touch with you.
-Have a public team channel in [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/) to give quick answers and discuss your domain questions.
-Publish relevant anouncements there.
-Use a separate private team channel for internal and sensitive subjects.
+Nowadays, most companies have some form of channel-based chat system like [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/).
+It makes it easy for peopel to get in touch with each other.
+We recommend to get a public team channel as a public API for questions and requests to your team.
+If you have a lot of back and forth with a particular team, create an API specifically for communicating with them.
+Your private team channel must be private so it can become a safe space to discuss sensitive subjects.
+Topic-specific channels help as well, for example around technologies or cloud providers.
 
 ## Full-Team Collaboration
 
@@ -108,9 +109,9 @@ One shares the Miro board in Zoom, so that everyone has focus on the same sectio
 
 Advices on good desks and office chairs are quite rare, and probably subject to individual preferences and budget. 
 However, we would like to give some tips here, as well:
-Jochen likes the height-adjustable timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
-Invest in your health and get a good chair, especially when you are working from home in the long term. 
-Ergonomic seating and beautiful design provides the fully customizable [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
+We like the height-adjustable timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000), and can recommend it.
+But more important for your long-term health is your chair -- you'll sit on it 8 hours every working day.
+We recommend the ergonomic, fully customizable, and very beautiful [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
 
 ## CO2 meter
 
