@@ -91,8 +91,11 @@ What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/
 
 ## Mob Programming and Full-Team Collaboration
 
-- https://www.remotemobprogramming.org/
-- https://github.com/remotemobprogramming/mob
+We love [Remote Mob Programming](https://www.remotemobprogramming.org/).
+The whole team works together on the same thing, at the same time, in the same virtual space.
+Regardless of the term ‘programming’, these methods are suitable for most kind of white collar work.
+This is how we fight social isolation, being super productive in terms of time-to-market.
+We use the little tool [mob](https://github.com/remotemobprogramming/mob) for a smooth handover.
 
 ## User Manuals or Personal READMEs
 
