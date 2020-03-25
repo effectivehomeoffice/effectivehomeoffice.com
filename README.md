@@ -152,5 +152,7 @@ So follow this guide with caution. Still, we do hope you can find one or two thi
 
 <div style="clear:both"/>
 
+[Legal Notice and Privacy Policy](/legal)
+
 <script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
 <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
