@@ -85,17 +85,17 @@ What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/
 
 - Basecamp Check-Ins https://basecamp.com/features/checkins
 
-## Remote Pair Programming
+## Pairing
 
 [Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. It's the self-declared successor of the missed screenhero. We can't wait to try it out and share our experiences with it on this website.
 
-## Mob Programming and Full-Team Collaboration
+## Full-Team Collaboration
 
 We love [Remote Mob Programming](https://www.remotemobprogramming.org/).
 The whole team works together on the same thing, at the same time, in the same virtual space.
-Regardless of the term ‘programming’, these methods are suitable for most kind of white collar work.
-This is how we fight social isolation, being super productive in terms of time-to-market.
-We use the little tool [mob](https://github.com/remotemobprogramming/mob) for a smooth handover.
+Regardless of the term *programming*, these methods are suitable for any kind of knowledge work.
+This is how we fight social isolation and being super productive in terms of time-to-market.
+We developed the little tool [mob](https://github.com/remotemobprogramming/mob) for a smooth handover via git -- and we use it happily everyday.
 
 ## User Manuals or Personal READMEs
 
