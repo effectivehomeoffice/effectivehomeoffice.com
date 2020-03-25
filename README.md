@@ -98,13 +98,6 @@ It really makes a difference!
 And for lunch, take your time to cook a good meal. 
 Don't rush it to get back to work faster -- it's not worth it in the long run.
 
-## Collaborative Whiteboard
-
-We miss to scribble and discuss together on a physical whiteboard.
-There is no good alternative for distributed teams.
-What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an [Apple Pencil](https://www.apple.com/apple-pencil/) to draw. 
-One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
-
 ## Check-Ins
 
 [Basecamp Check-Ins](https://basecamp.com/features/checkins)
@@ -129,6 +122,13 @@ The solution is simple: open your windows.
 Thing is, your body realizes bad air quality too late -- your mental capacity is already reduced at that point.
 So be proactive, and measure the co2 levels in your room so your brain stays happy.
 We recommend a simple [co2 sensor with a warning light when to open your windows](https://www.amazon.de/dp/B00TH3OW4Q/).
+
+## Whiteboard
+
+We miss to scribble and discuss together on a physical whiteboard.
+There is no good alternative for distributed teams.
+What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an [Apple Pencil](https://www.apple.com/apple-pencil/) to draw. 
+One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
 
 ## Lighting and Green Screen
 
