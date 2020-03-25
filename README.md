@@ -120,6 +120,13 @@ Thing is, your body realizes bad air quality too late -- your mental capacity is
 So be proactive, and measure the co2 levels in your room so your brain stays happy.
 We recommend a simple [co2 sensor with a warning light when to open your windows](https://www.amazon.de/dp/B00TH3OW4Q/).
 
+## Lighting and Green Screen
+
+Our colleagues at INNOQ who do professional remote trainings and online workshops use a green screen to have a clean background and soft lights for perfect illumination.
+This comes from professional video game streaming, and the [Elgato Key Light Air](https://www.elgato.com/en/gaming/key-light-air) and their [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
+We already ordered them to evaluate and will give feedback here. 
+Stay tuned!
+
 ## Breaks
 
 Have breaks away from keyboard! 
@@ -127,12 +134,6 @@ It's tempting to check emails or read stuff online during a short break, but we 
 It really makes a difference!
 And for lunch, take your time to cook a good meal. 
 Don't rush it to get back to work faster -- it's not worth it in the long run.
-
-## Lighting and Green Screen
-
-We heard that, to step up the game of video streaming, giving trainings, or workshops online, [Soft Lights](https://www.elgato.com/en/gaming/key-light) and [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
-We already ordered them and will give feedback here. 
-Stay tuned!
 
 ## Further Guides
 
