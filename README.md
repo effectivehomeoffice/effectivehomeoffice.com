@@ -97,7 +97,7 @@ One shares the Miro board in Zoom, so that everyone has focus on the same sectio
 
 ## Check-Ins
 
-- Basecamp Check-Ins https://basecamp.com/features/checkins
+[Basecamp Check-Ins](https://basecamp.com/features/checkins)
 
 ## Personal READMEs
 
