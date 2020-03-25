@@ -4,7 +4,8 @@ An opinionated guide to effectively work from home.
 
 ![Effective Home Office](images/header.jpeg)
 
-We've written this guide because we got asked the same questions (e.g., [Which microphone should I get?](#microphone) or [Which software should I use for video conferencing?](#video-conferences)) over and over again, and we wanted to have a place where we could direct all those people to. 
+We've written this guide because we got asked the same questions (e.g., [Which microphone should I get?](#microphone) or [Which software should I use for video conferencing?](#video-conferences)) over and over again, and we wanted to have a place where we could direct all those people to.
+
 Instead of providing yet another long list of tools, this guide contains a short, curated selection of things that worked well for [us](#authors) working from home.
 Everything is our own and honest opinion, and reflects our preferences, dislikes, and priorities.
 But as we all know, everybody is different. 
