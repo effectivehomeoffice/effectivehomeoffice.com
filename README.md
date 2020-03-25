@@ -74,6 +74,10 @@ Think of this channel as a public API for questions and requests to your team.
 Have a private team channel as well, and keep it private so it can become a safe space to discuss sensitive subjects.
 Topic-specific channels such as #kubernetes, #frontend, or #marketing allow communcation and knowledge sharing across teams.
 
+## Team Insights
+
+A big problem when working from home is that managers no longer see their teams working. Doubts on their productivity may arise, regardless of whether these doubts are justified or are merely the result of a gut feeling. The problem lies in the inherent feeling of loosing control. One way to counteract is to keep your manager up to date through regular insights, similiar to [Basecamp Check-Ins](https://basecamp.com/features/checkins). We highly recommend doing this in a written form asynchronously at the end of the business day -- and make them publicly available within the company. We basically do exactly this: before shutting our computers down at the end of the day, we write a short post about what is newsworthy in a [public team insights channel](#team-api). [This insight can be about a finished feature, about yesterday’s refactoring that paid off, or about a complaint about a pointless meeting.](https://www.innoq.com/de/articles/2020/03/effectively-working-from-home/#trustthroughtransparency) 
+
 ## Full-Team Collaboration
 
 We love [Remote Mob Programming](https://www.remotemobprogramming.org/).
@@ -97,10 +101,6 @@ It's tempting to check emails or read stuff online during a short break, but we 
 It really makes a difference!
 And for lunch, take your time to cook a good meal. 
 Don't rush it to get back to work faster -- it's not worth it in the long run.
-
-## Check-Ins
-
-[Basecamp Check-Ins](https://basecamp.com/features/checkins)
 
 ## Personal READMEs
 
