@@ -90,6 +90,14 @@ It's the self-declared successor of the late screenhero.
 However, [screen](https://screen.so), being developed by the original developer of screenhero, has also made it clear that it wants to become the successor of screenhero as well.
 We'll try both, and report to you who'll win this game of the screenhero throne.
 
+## Breaks
+
+Have breaks away from keyboard! 
+It's tempting to check emails or read stuff online during a short break, but we recommend to take your breaks seriously and walk away from your home office, get a cup of coffee or go for a short walk. 
+It really makes a difference!
+And for lunch, take your time to cook a good meal. 
+Don't rush it to get back to work faster -- it's not worth it in the long run.
+
 ## Collaborative Whiteboard
 
 We miss to scribble and discuss together on a physical whiteboard.
@@ -128,14 +136,6 @@ Our colleagues at INNOQ who do professional remote trainings and online workshop
 This comes from professional video game streaming, and the [Elgato Key Light Air](https://www.elgato.com/en/gaming/key-light-air) and their [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
 We already ordered them to evaluate and will give feedback here. 
 Stay tuned!
-
-## Breaks
-
-Have breaks away from keyboard! 
-It's tempting to check emails or read stuff online during a short break, but we recommend to take your breaks seriously and walk away from your home office, get a cup of coffee or go for a short walk. 
-It really makes a difference!
-And for lunch, take your time to cook a good meal. 
-Don't rush it to get back to work faster -- it's not worth it in the long run.
 
 ## Further Guides
 
