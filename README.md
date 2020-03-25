@@ -91,7 +91,7 @@ We'll try both, and report to you who'll win this game of the screenhero throne.
 
 ## Collaborative Whiteboard
 
-We miss to scribble and discuss together on a real whiteboard.
+We miss to scribble and discuss together on a physical whiteboard.
 There is no good alternative for distributed teams.
 What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an [Apple Pencil](https://www.apple.com/apple-pencil/) to draw. 
 One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
