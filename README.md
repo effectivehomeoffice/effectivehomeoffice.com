@@ -45,7 +45,6 @@ For a reliable and fast connection, use a [Cat 7 ethernet cable](https://www.ama
 If you have to resort to Wi-Fi, invest, for the sake of your team, in high quality access points.
 We recommend Ubiquiti [Unifi](https://www.ui.com/unifi/unifi-ap-ac-pro/) and [Amplifi](https://amplifi.com/amplifi-hd).
 
-
 ## Video Conferences
 
 Use [zoom.us](https://zoom.us/) for video conferences and screen sharing. 
@@ -97,7 +96,7 @@ Regardless of the term *programming*, these methods are suitable for any kind of
 This is how we fight social isolation and being super productive in terms of time-to-market.
 We developed the little tool [mob](https://github.com/remotemobprogramming/mob) for a smooth handover via git -- and we use it happily everyday.
 
-## User Manuals or Personal READMEs
+## Personal READMEs
 
 - https://www.linkedin.com/pulse/leaders-need-user-manuals-what-i-learned-writing-mine-abby-falik/
 - https://engineering.tes.com/post/personal-readme-experiment/
@@ -134,13 +133,11 @@ We recommend a simple [co2 sensor with a warning light when to open your windows
 
 Have breaks away from keyboard! It's tempting to check emails or read stuff online during a short break, but we recommend to really take your breaks seriously and walk away from your home office, get a cup of coffee or go for a short walk. It really makes a difference! And for lunch, take your time to cook a good meal. Don't rush it to get back to work faster -- it's not worth it in the long run.
 
-## Lighting
+## Lighting and Green Screen
 
-[Soft Light](https://www.elgato.com/en/gaming/key-light)
-
-## Green Screen
-
-[Green Screen](https://www.elgato.com/en/gaming/green-screen)
+We heard that, to step up the game of video streaming, giving trainings or workshops online, [Soft Lights](https://www.elgato.com/en/gaming/key-light) and [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
+We already ordered them and will give feedback here. 
+Stay tuned!
 
 ## Further Guides
 
