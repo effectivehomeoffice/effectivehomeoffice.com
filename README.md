@@ -98,7 +98,7 @@ One shares the Miro board in Zoom, so that everyone has focus on the same sectio
 ## Desk and Chair
 
 Advices on good desks and office chairs are quite rare, and probably subject to individual preferences. However, we would like to give some tips here, as well:
-Jochen likes the timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
+Jochen likes the height-adjustable timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000).
 Invest in your health and get a good chair, especially when you are working from home in the long term. 
 Ergonomic seating and beautiful design provides the fully customizable [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
 
