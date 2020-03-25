@@ -66,12 +66,12 @@ Make sure that your team room is for your team only, and any meetings with other
 
 ## Team API
 
-Nowadays, most companies have some form of channel-based chat system like [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/).
-It makes it easy for peopel to get in touch with each other.
-We recommend to get a public team channel as a public API for questions and requests to your team.
-If you have a lot of back and forth with a particular team, create an API specifically for communicating with them.
-Your private team channel must be private so it can become a safe space to discuss sensitive subjects.
-Topic-specific channels help as well, for example around technologies or cloud providers.
+More and more companies introduce some form of channel-based chat system like [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/).
+It makes it easy for people to get in touch with each other.
+We recommend to get a public team channel to make it easy for other teams to get in touch you.
+Think of this channel as a public API for questions and requests to your team.
+Have a private team channel as well, and keep it private so it can become a safe space to discuss sensitive subjects.
+Topic-specific channels such as #kubernetes, #frontend, or #marketing allow communcation and knowledge sharing across teams.
 
 ## Full-Team Collaboration
 
