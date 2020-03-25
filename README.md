@@ -85,7 +85,7 @@ One that we happily use everyday is our little tool [mob](https://github.com/rem
 
 [Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. 
 It's the self-declared successor of the late screenhero. 
-However, [screen.co](https://screen.co), being developed by the original developer of screenhero., has also made it clear that it wants to become the successor of screenhero.
+However, [screen](https://screen.so), being developed by the original developer of screenhero, has also made it clear that it wants to become the successor of screenhero as well.
 We'll try both, and report to you who'll win this game of the screenhero throne.
 
 ## Collaborative Whiteboard
