@@ -52,8 +52,9 @@ We can't live without the moveable video stream gallery overlay anymore, especia
 
 ## Virtual Team Room
 
-A virtual team room is like a video conference that's always available -- you can come and go anytime.
+A virtual team room in an video conference always available -- you can come and go anytime.
 Zoom doesn't support the concept of a virtual team room directly, [but there's a workaround](/setup-zoom-as-virtual-team-room).
+We use such a virtual team room all the time to work together, for plannings and meetings, and for small talk.
 Make sure that your team room is for your team only, and any meetings with other teams happen in separate, dedicated virtual meeting rooms.
 
 ## Team API
@@ -68,16 +69,8 @@ Use a separate private team channel for internal and sensitive subjects.
 
 We miss to scribble and discuss together on a real whiteboard.
 There is no good alternative for distributed teams.
-What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an [Apple Pencil](https://www.apple.com/apple-pencil/) to draw. One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
-
-
-## Check-Ins
-
-- Basecamp Check-Ins https://basecamp.com/features/checkins
-
-## Pairing
-
-[Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. It's the self-declared successor of the missed screenhero. We can't wait to try it out and share our experiences here.
+What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an [Apple Pencil](https://www.apple.com/apple-pencil/) to draw. 
+One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
 
 ## Full-Team Collaboration
 
@@ -86,6 +79,17 @@ The whole team works together on the same thing, at the same time, in the same v
 Regardless of the term *programming*, these methods are suitable for any kind of knowledge work.
 This is how we fight social isolation and being super productive in terms of time-to-market.
 We developed the little tool [mob](https://github.com/remotemobprogramming/mob) for a smooth handover via git -- and we use it happily everyday.
+
+## Pairing
+
+[Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. 
+It's the self-declared successor of the missed screenhero. 
+We can't wait to try it out and share our experiences here.
+
+
+## Check-Ins
+
+- Basecamp Check-Ins https://basecamp.com/features/checkins
 
 ## Personal READMEs
 
@@ -113,11 +117,15 @@ We recommend a simple [co2 sensor with a warning light when to open your windows
 
 ## Breaks
 
-Have breaks away from keyboard! It's tempting to check emails or read stuff online during a short break, but we recommend to really take your breaks seriously and walk away from your home office, get a cup of coffee or go for a short walk. It really makes a difference! And for lunch, take your time to cook a good meal. Don't rush it to get back to work faster -- it's not worth it in the long run.
+Have breaks away from keyboard! 
+It's tempting to check emails or read stuff online during a short break, but we recommend to really take your breaks seriously and walk away from your home office, get a cup of coffee or go for a short walk. 
+It really makes a difference! 
+And for lunch, take your time to cook a good meal. 
+Don't rush it to get back to work faster -- it's not worth it in the long run.
 
 ## Lighting and Green Screen
 
-We heard that, to step up the game of video streaming, giving trainings or workshops online, [Soft Lights](https://www.elgato.com/en/gaming/key-light) and [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
+We heard that, to step up the game of video streaming, giving trainings, or workshops online, [Soft Lights](https://www.elgato.com/en/gaming/key-light) and [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
 We already ordered them and will give feedback here. 
 Stay tuned!
 
@@ -127,7 +135,9 @@ Stay tuned!
 
 [Remote Guide, by Gitlab](https://about.gitlab.com/company/culture/all-remote/) is a complete and very extensive collection on how to build a fully remote company, touching every aspect of that. It's basically the playbook of Gitlab itself, and is constantly improved from their own learnings.
 
-[The Remote Work Playbook, by Thoughtworks](https://www.thoughtworks.com/remote-work-playbook) is ...
+Both guides promote a strong asynchronous way of distributed work, while we prefer a synchronous whole team approach.
+So, find out what works best for you and your team.
+
 
 ## Why Opinionated
 
