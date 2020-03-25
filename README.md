@@ -1,10 +1,15 @@
 # Effective Home Office
 
-An [opinionated](#why-opinionated) guide to effectively work from home.
+An opinionated guide to effectively work from home.
 
 ![Effective Home Office](images/header.jpeg)
 
-In our talks and articles about working from home, [we](#authors) get frequently asked about the hardware and software we use. We want to provide our tips for a successful setup to work from home, being it tips on hardware, software, methods, or, the most important aspect, health. Happy reading!
+We've written this guide because we got asked the same questions (e.g., [Which microphone should I get?](#microphone) or [Which software should I use for video conferencing?](#video-conferences)) over and over again, and we wanted to have a place where we could direct all those people to. 
+Instead of providing yet another long list of tools, this guide contains a short, curated selection of things that worked well for [us](#authors) working from home.
+Everything is our own and honest opinion, and reflects our preferences, dislikes, and priorities.
+But as we all know, everybody is different. 
+So follow this guide with caution. 
+Still, we do hope you can find one or two things that improves your work from home experience!
 
 Feel free to reach out to us on Twitter with hashtag [#effectivehomeoffice](https://twitter.com/hashtag/effectivehomeoffice) or via email at [hello@effectivehomeoffice.com](mailto:hello@effectivehomeoffice.com) for questions, comments, praise, or critique.
 
@@ -17,7 +22,9 @@ We recommend the [Blue Yeti](https://www.bluedesigns.com/products/yeti/) ($129).
 
 ## Headset
 
-Don't use a headset. If you really have to, get the [Jabra Evolve 65](https://www.jabra.com/business/office-headsets/jabra-evolve/jabra-evolve-65) ($180), or any other of the [Jabra Evolve](https://www.jabra.com/business/office-headsets/jabra-evolve) family that fits your wearing preferences. For occasional calls the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
+Don't use a headset. 
+If you really have to, get the [Jabra Evolve 65](https://www.jabra.com/business/office-headsets/jabra-evolve/jabra-evolve-65) ($180), or any other of the [Jabra Evolve](https://www.jabra.com/business/office-headsets/jabra-evolve) family that fits your wearing preferences. 
+For occasional calls the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
 
 ## Webcam
 
@@ -29,17 +36,17 @@ We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-
 
 ## Monitor
 
-Don't work primarily on your notebook monitor for ergonomic reasons (also see [Webcam](#webcam)). 
+Don't work primarily on your notebook monitor for ergonomic reasons and because of [issues with the webcam position](#webcam)). 
 Get an external 27" 4K display. 
 Scale your content as it's easier on the eyes.
-No ultra-wide or 5K -- it's not worth it because it makes sharing your screen harder (resolutions don't match well)!
+No ultra-wide or 5K -- it's not worth it because it makes displaying your shared screen hard!
 We would love to see a webcam built-in, good speakers and Thunderbolt 3 in a beautiful design.
 Unfortunately none of currently available monitors matches these requirements. 
-So, we bought [EIZO EV2785 ($1000), a good 4K IPS display](https://www.eizoglobal.com/products/flexscan/ev2785/index.html), and we're quite happy with it.
+So, we bought [EIZO EV2785 ($1000), a good 4K IPS display](https://www.eizoglobal.com/products/flexscan/ev2785/index.html) to get at least with a beautiful design, and we're quite happy with it.
 
 ## Wi-Fi
 
-Connection disruptions are annoying for everyone.
+A flaky connection is annoying for everyone.
 For a reliable and fast connection, use a [Cat 7 ethernet cable](https://www.amazon.com/AmazonBasics-Network-Ethernet-Patch-Cable/dp/B013PUMX8I) to connect your computer to your router.
 If you have to resort to Wi-Fi, invest, for the sake of your team, in high quality access points.
 We recommend Ubiquiti [Unifi](https://www.ui.com/unifi/unifi-ap-ac-pro/) and [Amplifi](https://amplifi.com/amplifi-hd).
@@ -47,15 +54,15 @@ We recommend Ubiquiti [Unifi](https://www.ui.com/unifi/unifi-ap-ac-pro/) and [Am
 ## Video Conferences
 
 Use [zoom.us](https://zoom.us/) for video conferences and screen sharing. 
-It's the most mature, stable, and less CPU-intense video conferencing that we know and has good support for Linux and mobile devices.
+It's the most mature, stable, and less CPU-intense video conferencing that we know -- and is fast on Linux and mobile devices as well.
 We can't live without the moveable video stream gallery overlay anymore, especially while screen sharing.
 
 ## Virtual Team Room
 
-A virtual team room in an video conference always available -- you can come and go anytime.
-Zoom doesn't support the concept of a virtual team room directly, [but there's a workaround](/setup-zoom-as-virtual-team-room).
+A *virtual team room* in a video conference that's always available -- you can come and go anytime.
+Zoom doesn't support the concept of a virtual team room directly, [but you can get close by configuring your personal meetings in a specific way](/setup-zoom-as-virtual-team-room).
 We use such a virtual team room all the time to work together, for plannings and meetings, and for small talk.
-Make sure that your team room is for your team only, and any meetings with other teams happen in separate, dedicated virtual meeting rooms.
+Make sure that your team room is for your team only, and any meetings with other teams happen in separate, dedicated *virtual meeting rooms*.
 
 ## Team API
 
@@ -132,14 +139,6 @@ Stay tuned!
 
 Both guides promote a strong asynchronous way of distributed work, while we prefer a synchronous whole team approach.
 So, find out what works best for you and your team.
-
-
-## Why Opinionated
-
-Instead of providing yet another long list of tools, this guide contains a short, curated selection of things that worked well for us working from home during the last years.
-Everything is our own and honest opinion, and reflects our preferences, dislikes, and priorities.
-But as we all know, everybody is different. 
-So follow this guide with caution. Still, we do hope you can find one or two things that improves your work from home experience!
 
 ## Authors
 
