@@ -134,7 +134,7 @@ Stay tuned!
 
 ## Further Guides
 
-[Remote: Office Not Required, by David Heinemeier Hansson and Jason Fried](https://basecamp.com/books/remote) is a great starting point for ideas on making the switch to remote. It covers a wide range of topics, including recruiting.
+[Remote: Office Not Required, by David Heinemeier Hansson and Jason Fried](https://basecamp.com/books/remote) is a great starting point for ideas on making the switch to remote. It covers a wide range of topics, including recruiting and managing remote teams.
 
 [Remote Guide, by Gitlab](https://about.gitlab.com/company/culture/all-remote/) is a complete and very extensive collection on how to build a fully remote company, touching every aspect of that. It's basically the playbook of Gitlab itself, and is constantly improved from their own learnings.
 
@@ -144,7 +144,7 @@ So, find out what works best for you and your team.
 ## Authors
 
 <img src="images/simon-avatar.png" alt="Simon" width="80" style="float:left; padding: 12px">
-[Simon Harrer](https://twitter.com/simonharrer) is a senior consultant at [INNOQ](https://www.innoq.com). As part of a remote mob, he fights everyday out for simple solutions with domain-driven design, fitting architectures such as microservices or monoliths, and clean code in Java, Ruby or even JavaScript. Most recently, he wrote the book [Java by Comparison](https://java.by-comparison.com) that helps Java beginners to write cleaner code through before/after comparisons.
+[Simon Harrer](https://twitter.com/simonharrer) is a senior consultant at [INNOQ](https://www.innoq.com). Sharing knowledge is his passion, be it through books, articles, talks, or even tweets. From his experience as a lecturer at the University of Bamberg, Harrer has co-authored the best-selling book [Java by Comparison](https://java.by-comparison.com) that helps Java beginners to write cleaner code through before/after comparisons. When he is not building microservices on Kubernetes, you might see him moderating event storming workshops or helping young PhD students to document their research prototypes with arc42.
 
 <img src="images/jochen-avatar.png" alt="Jochen" width="80" style="float:left; padding: 12px">
 [Jochen Christ](https://twitter.com/jochen_christ) is a senior consultant at [INNOQ](https://www.innoq.com). He is an expert for Java technologies and cloud architectures. He is interested in technical leadership, remote working methods, and badminton. Jochen is a speaker at international conferences and enjoys participating in local meetups.
