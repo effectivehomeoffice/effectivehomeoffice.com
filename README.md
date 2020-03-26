@@ -4,7 +4,7 @@ An opinionated guide to effectively work from home.
 
 ![Effective Home Office](images/header.jpeg)
 
-We've written this guide because we got asked the same questions (e.g., [Which microphone should I get?](#microphone) or [Which software should I use for video conferencing?](#video-conferences)) over and over again, and we wanted to have a place where we could direct all those people to.
+We've written this guide because we got asked the same questions (e.g., [which microphone should I get?](#microphone) or [which software should I use for video conferencing?](#video-conferences)) over and over again, and we wanted to have a place where we could direct all those people to.
 
 Instead of providing yet another long list of tools, this guide contains a short, curated selection of things that worked well for [us](#authors) working from home.
 Everything is our own and honest opinion, and reflects our preferences, dislikes, and priorities.
@@ -41,7 +41,7 @@ Don't work primarily on your notebook monitor for ergonomic reasons and because 
 Get an external 27" 4K display. 
 Scale your content as it's easier on the eyes.
 No ultra-wide or 5K -- it's not worth it because it makes displaying your shared screen hard!
-We would love to see a webcam built-in, good speakers and Thunderbolt 3 in a beautiful design.
+We would love to see a monitor with a webcam built-in, good speakers, and Thunderbolt 3 in a beautiful design.
 Unfortunately none of currently available monitors matches these requirements. 
 So, we bought the [EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2785/index.html) ($1000), a good 4K IPS display to get at least a beautiful design, and we're quite happy with it.
 
@@ -55,7 +55,7 @@ We recommend Ubiquiti [Unifi](https://www.ui.com/unifi/unifi-ap-ac-pro/) and [Am
 ## Video Conferences
 
 Use [zoom.us](https://zoom.us/) for video conferences and screen sharing. 
-It's the most mature, stable, and less CPU-intense video conferencing that we know -- and is fast on Linux and mobile devices as well.
+It's the most mature, stable, and less CPU-intense video conferencing software that we know -- and is fast on Linux and mobile devices as well.
 We can't live without the moveable video stream gallery overlay anymore, especially while screen sharing.
 
 ## Virtual Team Room
@@ -85,14 +85,14 @@ The whole team works together on the same thing, at the same time, in the same v
 Regardless of the term *programming*, these methods are suitable for any kind of knowledge work.
 By collaborating so intensely in our [virtual team room](#virtual-team-room) we solve the typical home office issue of social isolation for us. 
 And with mob programming, we're being super productive in terms of time-to-market.
-One that we happily use everyday is our little tool [mob](https://github.com/remotemobprogramming/mob), which enables us to make smooth handovers via git.
+One thing that we happily use everyday is the tool [mob](https://github.com/remotemobprogramming/mob), which enables us to make smooth handovers via git.
 
 ## Pairing
 
 [Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. 
 It's the self-declared successor of the late screenhero. 
-However, [screen](https://screen.so), being developed by the original developer of screenhero, has also made it clear that it wants to become the successor of screenhero as well.
-We'll try both, and report to you who'll win this game of the screenhero throne.
+However, [screen](https://screen.so), being developed by the original developer of screenhero, has made it clear that it wants to become the successor of screenhero as well.
+We'll try both, and report to you who'll win the game of the screenhero throne afterall.
 
 ## Breaks
 
@@ -115,7 +115,7 @@ We recommend the ergonomic, fully customizable, and very beautiful [Vitra Pacifi
 You'd be suprised how quickly the oxygen in a small room runs low, affecting your mental capacity.
 The solution is simple: open your windows.
 Thing is, your body realizes bad air quality too late -- your mental capacity is already reduced at that point.
-So be proactive, and measure the co2 levels in your room so your brain stays happy.
+So be proactive, and measure the co2 levels in your room to know when to open your windows so your brain stays happy.
 We recommend a simple [co2 sensor with a warning light when to open your windows](https://www.amazon.de/dp/B00TH3OW4Q/).
 
 ## Whiteboard
@@ -123,11 +123,11 @@ We recommend a simple [co2 sensor with a warning light when to open your windows
 We miss to scribble and discuss together on a physical whiteboard.
 There is no good alternative for distributed teams.
 What comes next is [Miro](https://miro.com/) on an [iPad](https://www.apple.com/ipad-pro/) with an [Apple Pencil](https://www.apple.com/apple-pencil/) to draw. 
-One shares the Miro board in Zoom, so that everyone has focus on the same section of the board.
+One shares the Miro board in a [video conference](#video-conferences), so that everyone puts their focus on the same section of the board.
 
 ## Lighting and Green Screen
 
-Our colleagues at [INNOQ](https://www.innoq.com/) who do professional remote trainings and online workshops use a green screen to have a clean background and soft lights for perfect illumination.
+Our colleagues at [INNOQ](https://www.innoq.com/) who give remote trainings and online workshops use a green screen to have a clean background and soft lights for perfect illumination.
 This comes from professional video game streaming, and the [Elgato Key Light Air](https://www.elgato.com/en/gaming/key-light-air) and their [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
 We already ordered them to evaluate and will give feedback here. 
 Stay tuned!
