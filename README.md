@@ -28,8 +28,7 @@ If you really have to, get the [Jabra Evolve 65](https://www.jabra.com/business/
 For occasional calls the [Apple AirPods](https://www.apple.com/airpods/) are just fine.
 
 ## Webcam
-
-Make sure to look directly to each other in video conferences.
+Make sure to activate your webcam and look directly to each other in video conferences.
 For that, the webcam must be on eye-level (or slightly above).
 This rules out your laptop's built-in camera as it's mounted too low.
 Instead, get an external webcam and mount in on top of your primary screen.
