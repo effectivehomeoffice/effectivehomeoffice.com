@@ -127,7 +127,7 @@ One shares the Miro board in Zoom, so that everyone has focus on the same sectio
 
 ## Lighting and Green Screen
 
-Our colleagues at INNOQ who do professional remote trainings and online workshops use a green screen to have a clean background and soft lights for perfect illumination.
+Our colleagues at [INNOQ](https://www.innoq.com/) who do professional remote trainings and online workshops use a green screen to have a clean background and soft lights for perfect illumination.
 This comes from professional video game streaming, and the [Elgato Key Light Air](https://www.elgato.com/en/gaming/key-light-air) and their [Green Screen](https://www.elgato.com/en/gaming/green-screen) is the way to go. 
 We already ordered them to evaluate and will give feedback here. 
 Stay tuned!
