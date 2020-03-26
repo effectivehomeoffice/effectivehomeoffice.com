@@ -35,6 +35,12 @@ This rules out your laptop's built-in camera as it's mounted too low.
 Instead, get an external webcam and mount in on top of your primary screen.
 We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) ($79).
 
+Corona-Update: As the Logitech C922 and C920 webcams are currently out-of-stock everywhere: 
+The camera model itself is not super important. 
+Any webcam should work. 
+And in the meantime it is totally fine to use your laptop's built-in camera.
+Anyway, try to look directyl to each other in video conferences.
+
 ## Monitor
 
 Don't work primarily on your notebook monitor for ergonomic reasons and because of [issues with the webcam position](#webcam). 
