@@ -4,7 +4,7 @@ Care about the position of the web cam.
 
 The figure below shows three different settings:
 
-![webcam-position.jpeg](webcam-position.jpeg)
+![Webcam Position](webcam-position.png)
 
 On the far left you see the person only from the side; you can’t meet their eye. 
 This is what happens when you work mainly on an external screen and the laptop with the camera lays besides you. 
