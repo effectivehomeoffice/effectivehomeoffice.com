@@ -20,11 +20,8 @@ And the frog-perspective presents a long neck, which is not very good-looking is
 ### Best-Practice: Communication on eye-level
 
 The third person looks directly into the camera positioned right above their external monitor, allowing communication on an equal basis.
-
 Communication on an equal basis is paramount being successful as a distributed team. 
-Anyone who has ever participated in an on-site meeting by telephone knows that you only receive half of the information and practically no non-verbal information. 
-One is a second class participant in such meetings. 
-That’s why effective video conferences require the discipline that everybody has to dial in separately – even if some are co-located.
+
 
 
 <script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
