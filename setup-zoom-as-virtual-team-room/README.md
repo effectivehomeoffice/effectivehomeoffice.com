@@ -1,4 +1,4 @@
-# Setup Zoom as Virtual Team Room
+## Setup Zoom as Virtual Team Room
 
 [Zoom](https://zoom.us/) is an awesome video conferencing solution.
 
@@ -22,24 +22,13 @@ As a workaround, a _personal meeting room_ can be configured to act as a virtual
 - Save
 - The meeting URL (e. g. https://zoom.us/j/2813412350) is your virtual team meeting room.
 
-Additional recommended settings (on website):
+### Join from browser
+
+Enable to join from browser, so that occational participant can skip the zoom client installation.
 
 ![zoom-settings-website.png](zoom-settings-website.png)
 
-- Settings -> In Meeting (Advanced) -> Disable _Attention tracking_ for privacy reasons
-- Settings -> In Meeting (Advanced) -> Enable _Show a "Join from your browser" link_ to enable plain Browser participants
-- Settings -> Email Notification -> Disable _When attendees join meeting before host_ to reduce email notifications
-
-Additional recommended settings (in Zoom Client Preferences):
-
-![zoom-settings-client-general.png](zoom-settings-client-general.png)
-
-- General -> Disable _Use dual monitors_. Put both participants and shared screen and on your primary screen to have eye contact.
-- General -> Enable _Maximize Zoom window when a participant shares their screen_. Focus.
-- General -> Disable _Side-by-side Mode_. This increases your screen estate.
-- Video -> Enable _Always display participant name on their videos_
-- Video -> Enable _Display up to 49 participants per screen in Gallery View_
-
+- Settings -> In Meeting (Advanced) -> Enable _Show a "Join from your browser" link_ to enable plain browser participants
 
 
 
