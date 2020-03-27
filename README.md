@@ -38,7 +38,7 @@ _Corona-Update: As the Logitech C920 and C922 webcams are currently out-of-stock
 The camera model itself is not super important. 
 Any webcam should work. 
 And in the meantime it is totally fine to use your laptop's built-in camera.
-Anyway, try to look directyl to each other in video conferences._
+Anyway, try to look directly to each other in video conferences._
 
 ## Monitor
 
