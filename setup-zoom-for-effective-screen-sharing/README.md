@@ -23,3 +23,6 @@ Also, focus the shared screen _and_ have video streams on your primary screen:
 - Video -> Enable _Always display participant name on their videos_
 - Video -> Enable _Display up to 49 participants per screen in Gallery View_
 
+
+<script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
+<noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
