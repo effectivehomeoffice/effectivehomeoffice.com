@@ -25,3 +25,7 @@ Communication on an equal basis is paramount being successful as a distributed t
 Anyone who has ever participated in an on-site meeting by telephone knows that you only receive half of the information and practically no non-verbal information. 
 One is a second class participant in such meetings. 
 That’s why effective video conferences require the discipline that everybody has to dial in separately – even if some are co-located.
+
+
+<script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
+<noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
