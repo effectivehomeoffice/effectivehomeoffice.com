@@ -30,6 +30,9 @@ Enable to join from browser, so that occational participant can skip the zoom cl
 
 - Settings -> In Meeting (Advanced) -> Enable _Show a "Join from your browser" link_ to enable plain browser participants
 
+### See also
+- [Setup Zoom for Effective Screen Sharing](/setup-zoom-for-effective-screen-sharing/)
+
 
 <script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
 <noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
