@@ -11,7 +11,7 @@ Enable system-wide short cuts in your desktop application.
 ![zoom-keyboard-shortcuts.png](zoom-keyboard-shortcuts.png)
 
 
-## Focus Settings:
+### Focus Settings
 
 Also, focus the shared screen _and_ video streams:
 
