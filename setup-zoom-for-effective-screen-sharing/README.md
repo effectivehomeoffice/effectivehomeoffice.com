@@ -1,6 +1,6 @@
 ## Setup Zoom for Effective Screen Sharing
 
-We use [zoom.us](https://zoom.us/) for all-day video conferences and screen sharing while doing [Remote Mob Programming](https://www.remotemobprogramming.org/).
+We use [zoom.us](https://zoom.us/) for all-day [video conferences](https://effectivehomeoffice.com#video-conferences) and screen sharing while doing [Remote Mob Programming](https://www.remotemobprogramming.org/).
 
 ### Enable Global Shortcuts
 
@@ -13,7 +13,7 @@ Enable system-wide short cuts in your desktop application.
 
 ### Focus Settings
 
-Also, focus the shared screen _and_ video streams:
+Also, focus the shared screen _and_ have video streams on your primary screen:
 
 ![zoom-settings-client-general.png](zoom-settings-client-general.png)
 
