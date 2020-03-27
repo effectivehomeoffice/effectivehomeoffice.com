@@ -1,6 +1,7 @@
 ## Webcam-Position: Look to each other
 
 Care about the position of the web cam.
+
 The figure below shows three different settings.
 
 ![webcam-position.jpeg](webcam-position.jpeg)
