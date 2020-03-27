@@ -112,7 +112,7 @@ Don't rush it to get back to work faster -- it's not worth it in the long run.
 
 Advices on good desks and office chairs are quite rare, and probably subject to individual preferences and budget. 
 However, we would like to give some tips here, as well:
-We like the height-adjustable timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000), and can recommend it.
+We like the height-adjustable timeless and robust [USM Haller Desk](https://www.usm.com/en/residential/products/usm-haller-collection/usm-haller-tables-and-desks/) ($1000), and the more affordable IKEA [BEKANT](https://www.ikea.com/us/en/p/bekant-desk-white-stained-oak-veneer-white-s49282668/) ($199), which is also available as [sit-stand desk](https://www.ikea.com/us/en/p/bekant-desk-sit-stand-white-stained-oak-veneer-white-s99282086/) ($479).
 But more important for your long-term health is your chair -- you'll sit on it 8 hours every working day.
 We recommend the ergonomic, fully customizable, and very beautiful [Vitra Pacific Chair](https://www.vitra.com/en-ch/office/product/details/pacific-chair) ($900).
 
