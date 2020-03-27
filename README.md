@@ -32,9 +32,9 @@ Make sure to activate your webcam and look directly to each other in video confe
 For that, the webcam must be on eye-level (or slightly above).
 This rules out your laptop's built-in camera as it's mounted too low.
 Instead, get an external webcam and mount in on top of your primary screen.
-We use a [Logitech C922](https://www.logitech.com/en-us/product/c922-pro-stream-webcam) ($79).
+We use a [Logitech C920](https://www.logitech.com/en-us/product/hd-pro-webcam-c920) ($79).
 
-_Corona-Update: As the Logitech C922 and C920 webcams are currently out-of-stock everywhere: 
+_Corona-Update: As the Logitech C920 and C922 webcams are currently out-of-stock everywhere: 
 The camera model itself is not super important. 
 Any webcam should work. 
 And in the meantime it is totally fine to use your laptop's built-in camera.
