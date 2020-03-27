@@ -10,7 +10,8 @@ On the far left you see the person only from the side; you can’t meet their ey
 This is what happens when you work mainly on an external screen and the laptop with the camera lays besides you. 
 
 The person in the middle looks down into the camera – a typical image when people use only their laptop with the in-built camera. 
-This also implies an unintentional _perspective of power_ to look down to others.
+This also implies an unintentional perspective of power to _look down_ to others.
+And the frog-perspective presents a long neck, which is not very good-looking is most cases.
 
 The third person looks directly into the camera positioned right above their external monitor, allowing communication on an equal basis.
 
