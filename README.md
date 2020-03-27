@@ -44,7 +44,7 @@ Anyway, try to look directyl to each other in video conferences._
 
 Don't work primarily on your notebook monitor for ergonomic reasons and because of [issues with the webcam position](#webcam). 
 Get an external 27" 4K display. 
-Scale your content as it's easier on the eyes.
+4K resolution is required to display others shared screens sharply, especially when scaled.
 No ultra-wide or 5K -- it's not worth it because it makes displaying your shared screen hard!
 We would love to see a monitor with a webcam built-in, good speakers, and Thunderbolt 3 in a beautiful design.
 Unfortunately none of currently available monitors matches these requirements. 
