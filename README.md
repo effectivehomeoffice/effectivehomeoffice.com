@@ -74,10 +74,10 @@ Make sure that your team room is for your team only, and any meetings with other
 
 More and more companies introduce some form of channel-based chat system like [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/).
 It makes it easy for people to get in touch with each other.
-We recommend to get a public team channel to make it easy for other teams to get in touch you.
+We recommend getting a public team channel to make it easy for other teams to get in touch with you.
 Think of this channel as a public API for questions and requests to your team.
 Have a private team channel as well, and keep it private so it can become a safe space to discuss sensitive subjects.
-Topic-specific channels such as #kubernetes, #frontend, or #marketing allow communcation and knowledge sharing across teams.
+Topic-specific channels such as #kubernetes, #frontend, or #marketing allow communication and knowledge sharing across teams.
 
 ## Team Insights
 
