@@ -62,6 +62,7 @@ We recommend Ubiquiti [Unifi](https://www.ui.com/unifi/unifi-ap-ac-pro/) and [Am
 Use [zoom.us](https://zoom.us/) for video conferences and screen sharing. 
 It's the most mature, stable, and less CPU-intense video conferencing software that we know -- and is fast on Linux and mobile devices as well.
 We can't live without the moveable video stream gallery overlay anymore, especially while screen sharing.
+Make sure to [/setup-zoom-for-effective-screen-sharing/](enable global shortcuts for mute and screen sharing).
 
 ## Virtual Team Room
 
