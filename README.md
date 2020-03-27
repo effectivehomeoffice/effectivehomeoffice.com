@@ -48,7 +48,7 @@ Get an external 27" 4K display.
 No ultra-wide or 5K -- it's not worth it because it makes displaying your shared screen hard!
 We would love to see a monitor with a webcam built-in, good speakers, and Thunderbolt 3 in a beautiful design.
 Unfortunately none of currently available monitors matches these requirements. 
-So, we bought the [EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2785/index.html) ($1000), a good 4K IPS display to get at least a beautiful design, and we're quite happy with it.
+So, we bought the [EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2785/index.html) ($1000), a good 4K IPS display to get at least a sleek design, and we're quite happy with it.
 
 ## Wi-Fi
 
