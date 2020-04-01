@@ -4,7 +4,7 @@ An opinionated guide to effectively work from home.
 
 ![Effective Home Office](images/header.jpeg)
 
-We've written this guide because we got asked the same questions (e.g., [which microphone should I get?](#microphone) or [which software should I use for video conferencing?](#video-conferences)) over and over again, and we wanted to have a place where we could direct all those people to.
+We've written this guide because we got asked the same questions (e.g., [Which microphone should I get?](#microphone) or [What is this white box on your desk?](#co2-meter)) over and over again, and we wanted to have a place where we could direct all those people to.
 
 Instead of providing yet another long list of tools, this guide contains a short, curated selection of things that worked well for [us](#authors) working from home.
 Everything is our own and honest opinion, and reflects our preferences, dislikes, and priorities.
@@ -100,14 +100,6 @@ It's the self-declared successor of the late screenhero.
 However, [screen](https://screen.so), being developed by the original developer of screenhero, has made it clear that it wants to become the successor of screenhero as well.
 We'll try both, and report to you who'll win the game of the screenhero throne afterall.
 
-## Breaks
-
-Have breaks away from keyboard! 
-It's tempting to check emails or read stuff online during a short break, but we recommend to take your breaks seriously and walk away from your home office, get a cup of coffee or go for a short walk. 
-It really makes a difference!
-And for lunch, take your time to cook a good meal. 
-Don't rush it to get back to work faster -- it's not worth it in the long run.
-
 ## Desk and Chair
 
 Advices on good desks and office chairs are quite rare, and probably subject to individual preferences and budget. 
@@ -146,6 +138,11 @@ Stay tuned!
 
 Both guides strongly promote an asynchronous way of distributed work, while we prefer a synchronous whole team approach.
 So, find out what works best for you and your team.
+
+## Press
+
+- [Tips for an Effective Home Office on Irreal Blog](https://irreal.org/blog/?p=8765) highlights the headset-free setup and the CO2-Sensor
+- [heise SoftwareArchitekTOUR Podcast](https://www.heise.de/developer/artikel/Episode-70-Remote-Work-in-Corona-Zeiten-4692875.html) (German)
 
 ## Authors
 
