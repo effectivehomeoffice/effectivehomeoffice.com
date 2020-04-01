@@ -54,7 +54,7 @@ So, we bought the [EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2
 
 2-Factor Authentication should be enabled everywhere nowadays.
 But entering the OTP code from Google Authenticator is still a hassle.
-So, we prefer to use the [YubiKey 5C Nano](https://www.yubico.com/product/yubikey-5c-nano) whenever possible, giving consent by a simple touch.
+So, we prefer to use the [YubiKey 5C Nano](https://www.yubico.com/product/yubikey-5c-nano) ($60) whenever possible, giving consent by a simple touch.
 
 ## Wi-Fi
 
