@@ -50,6 +50,12 @@ We would love to see a monitor with a webcam built-in, good speakers, and Thunde
 Unfortunately none of currently available monitors matches these requirements. 
 So, we bought the [EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2785/index.html) ($1000), a good 4K IPS display to get at least a sleek design, and we're quite happy with it.
 
+## 2FA
+
+2-Factor Authentication should be enabled everywhere nowadays.
+But entering the OTP code from Google Authenticator is still a hassle.
+So, we prefer to use the [YubiKey 5C Nano](https://www.yubico.com/product/yubikey-5c-nano) whenever possible, giving consent by a simple touch.
+
 ## Wi-Fi
 
 A flaky connection is annoying for everyone.
