@@ -70,6 +70,8 @@ It's the most mature, stable, and less CPU-intense video conferencing software t
 We can't live without the moveable video stream gallery overlay anymore, especially while screen sharing.
 Make sure to [enable global shortcuts for mute and start/stop screen sharing](/setup-zoom-for-effective-screen-sharing).
 
+_Update: We are well aware of Zoom's privacy and security issues. We balanced the risks and benefits for our projects and currently stick with Zoom for its superior performance. Zoom is not playing nicely, but we also consider the current media coverage to be excessive. For sensitive video conferences consider [Whereby](https://whereby.com/) (Small rooms use Peer-to-Peer WebRTC) or hosting your own [Jitsi Meet](https://github.com/jitsi/jitsi-meet) server._
+
 ## Virtual Team Room
 
 A *virtual team room* is a video conference that's always available -- you can come and go anytime.
