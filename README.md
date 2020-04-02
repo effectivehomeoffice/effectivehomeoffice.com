@@ -70,7 +70,7 @@ It's the most mature, stable, and less CPU-intense video conferencing software t
 We can't live without the moveable video stream gallery overlay anymore, especially while screen sharing.
 Make sure to [enable global shortcuts for mute and start/stop screen sharing](/setup-zoom-for-effective-screen-sharing).
 
-_Update: We are well aware of Zoom's privacy and [security issues](https://objective-see.com/blog/blog_0x56.html). We balanced the risks and benefits for our projects and currently stick with Zoom for its superior performance. Zoom was not playing nicely, but at least shows efforts in [transparent communication](https://blog.zoom.us/wordpress/2020/04/01/a-message-to-our-users/), and we also consider the current media coverage to be excessive. For sensitive video conferences consider [Whereby](https://whereby.com/) (Small rooms use Peer-to-Peer WebRTC) or hosting your own [Jitsi Meet](https://github.com/jitsi/jitsi-meet) server._
+_Update: We are well aware of Zoom's privacy and [security issues](https://objective-see.com/blog/blog_0x56.html). Zoom was not playing nicely, but at least shows efforts in [transparent communication](https://blog.zoom.us/wordpress/2020/04/01/a-message-to-our-users/), and we also consider the current media coverage to be excessive. Balancing the risks and benefits, we still recommend Zoom for its superior performance. For sensitive video conferences, however, consider [Whereby](https://whereby.com/) (Small rooms use Peer-to-Peer WebRTC) or hosting your own [Jitsi Meet](https://github.com/jitsi/jitsi-meet) server._
 
 ## Virtual Team Room
 
