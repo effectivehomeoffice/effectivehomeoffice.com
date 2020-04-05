@@ -82,9 +82,10 @@ Make sure that your team room is for your team only, and any meetings with other
 
 ## Team API
 
-The distance of remote work increases the barrier for informal communication.
-We recommend getting a public team channel in [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/) to make it easy for other teams to get in touch with you.
-Think of this channel as a public API for questions and requests to your team.
+More and more companies introduce some form of channel-based chat system like [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/).	The distance of remote work increases the barrier for informal communication.
+It makes it easy for people to get in touch with each other.	We recommend getting a public team channel in [Slack](https://slack.com/) or [Microsoft Teams](https://products.office.com/en-US/microsoft-teams/group-chat-software/) to make it easy for other teams to get in touch with you.
+We recommend getting a public team channel to make it easy for other teams to get in touch with you.	
+Think of this channel as a public API for questions and requests to your team.	Think of this channel as a public API for questions and requests to your team.
 Have a private team channel as well, and keep it private so it can become a safe space to discuss sensitive subjects.
 
 ## Team Insights
