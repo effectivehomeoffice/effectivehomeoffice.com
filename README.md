@@ -53,7 +53,7 @@ We have the [EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2785/in
 
 ## 2FA
 
-2-Factor Authentication should be enabled everywhere nowadays.
+2-Factor Authentication should be enabled everywhere nowadays, especially for business accounts.
 But entering the OTP code from Google Authenticator is still a hassle.
 So, we prefer to use the [YubiKey 5C Nano](https://www.yubico.com/product/yubikey-5c-nano) ($60) whenever possible, giving consent by a simple touch.
 
