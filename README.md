@@ -32,6 +32,7 @@ Make sure to activate your webcam and look directly to each other in video confe
 For that, [the webcam must be on eye-level](https://effectivehomeoffice.com/webcam-position/) (or slightly above).
 This rules out your laptop's built-in camera as it's mounted too low.
 Instead, get an external webcam and mount in on top of your primary screen.
+4K or 60 FPS are not required.
 We use a [Logitech C920](https://www.logitech.com/en-us/product/hd-pro-webcam-c920) ($79).
 
 _Corona-Update: As the Logitech C920 and C922 webcams are currently out-of-stock everywhere: 
@@ -46,9 +47,9 @@ Don't work primarily on your notebook monitor for ergonomic reasons and because 
 Get an external 27" 4K display. 
 4K resolution is required to display others shared screens sharply, especially when scaled.
 No ultra-wide or 5K -- it's not worth it because it makes displaying your shared screen hard!
-We would love to see a monitor with a webcam built-in, good speakers, and Thunderbolt 3 in a beautiful design.
+We would love to see a monitor with a webcam built-in, good speakers, and Thunderbolt 3 in a sleek design.
 Unfortunately none of currently available monitors matches these requirements. 
-So, we bought the [EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2785/index.html) ($1000), a good 4K IPS display to get at least a sleek design, and we're quite happy with it.
+We have the [EIZO EV2785](https://www.eizoglobal.com/products/flexscan/ev2785/index.html) ($1000), but any 4K IPS display should be fine.
 
 ## 2FA
 
