@@ -122,7 +122,8 @@ You'd be suprised how quickly the oxygen in a small room runs low, affecting you
 The solution is simple: open your windows.
 Thing is, your body realizes bad air quality too late -- your mental capacity is already reduced at that point.
 So be proactive, and measure the co2 levels in your room to know when to open your windows so your brain stays happy.
-We recommend a simple [co2 sensor with a warning light when to open your windows](https://www.amazon.de/dp/B00TH3OW4Q/).
+We recommend a simple [CO2 sensor with a warning light when to open your windows](https://www.amazon.de/dp/B00TH3OW4Q/) or the more elegent [Awair Element](https://www.getawair.com/home/element).
+Tinkerers can also connect a [CO2 sensor module](https://www.amazon.de/ZkeeShop-MH-Z14A-0-5000PPM-Carbon-Sensor/dp/B0717B4RBN) to a Raspberry Pi.
 
 ## Whiteboard
 
