@@ -1,5 +1,7 @@
 # Effective Home Office
 
+**New: Since COVID-19 many work from home. The typical team events are postponed or canceled. With ['The Remote Mob Programming Experience'](https://www.innoq.com/en/topics/remote-mob-programming-experience/) we offer a unique form of team event which works working from home and makes a lot of fun!**
+
 An opinionated guide to effectively work from home.
 
 ![Effective Home Office](images/header.jpeg)
