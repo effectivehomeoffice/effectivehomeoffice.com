@@ -35,13 +35,7 @@ For that, [the webcam must be on eye-level](https://effectivehomeoffice.com/webc
 This rules out your laptop's built-in camera as it's mounted too low.
 Instead, get an external webcam and mount in on top of your primary screen.
 4K or 60 FPS are not required.
-We use a [Logitech C920](https://www.logitech.com/en-us/product/hd-pro-webcam-c920) ($79).
-
-_Corona-Update: As the Logitech C920 and C922 webcams are currently out-of-stock everywhere: 
-The camera model itself is not super important. 
-Any webcam should work. 
-And in the meantime it is totally fine to use your laptop's built-in camera.
-Anyway, try to look directly to each other in video conferences._
+We use a [Logitech Streamcam](https://www.logitech.com/de-de/product/streamcam) ($159), but any external webcam is fine.
 
 ## Monitor
 
