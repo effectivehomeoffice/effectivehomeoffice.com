@@ -18,8 +18,8 @@ Also, focus the shared screen _and_ have video streams on your primary screen:
 ![zoom-settings-client-general.png](zoom-settings-client-general.png)
 
 - General -> Disable _Use dual monitors_. Put both participants and shared screen and on your primary screen to have eye contact.
-- General -> Enable _Maximize Zoom window when a participant shares their screen_. Focus.
-- General -> Disable _Side-by-side Mode_. This increases your screen estate.
+- Share Screen -> Enable _Maximize Zoom window when a participant shares their screen_. Focus.
+- Share Screen -> Disable _Side-by-side Mode_. This increases your screen estate.
 - Video -> Enable _Always display participant name on their videos_
 - Video -> Enable _Display up to 49 participants per screen in Gallery View_
 
