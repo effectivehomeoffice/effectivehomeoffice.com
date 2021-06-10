@@ -103,6 +103,8 @@ One thing that we happily use everyday is the tool [mob](https://github.com/remo
 It's the self-declared successor of the late screenhero. 
 However, [screen](https://screen.so), being developed by the original developer of screenhero, has made it clear that it wants to become the successor of screenhero as well.
 We'll try both, and report to you who'll win the game of the screenhero throne afterall.
+Over time, even more tools for collaborating have emerged. 
+Here's a short list of them for you to have a look at: [Drovio](https://www.drovio.com/).
 
 ## Desk and Chair
 
