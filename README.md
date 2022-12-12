@@ -67,8 +67,6 @@ It's the most mature, stable, and less CPU-intense video conferencing software t
 We can't live without the moveable video stream gallery overlay anymore, especially while screen sharing.
 Make sure to [enable global shortcuts for mute and start/stop screen sharing](/setup-zoom-for-effective-screen-sharing).
 
-_Update: We are well aware of Zoom's privacy and [security issues](https://objective-see.com/blog/blog_0x56.html). Zoom was not playing nicely, but at least shows efforts in [transparent communication](https://blog.zoom.us/wordpress/2020/04/01/a-message-to-our-users/), and we also consider the current media coverage to be excessive. Balancing the risks and benefits, we still recommend Zoom for its superior performance. For sensitive video conferences, however, consider [Whereby](https://whereby.com/) (Small rooms use Peer-to-Peer WebRTC) or hosting your own [Jitsi Meet](https://github.com/jitsi/jitsi-meet) server._
-
 ## Virtual Team Room
 
 A *virtual team room* is a video conference that's always available -- you can come and go anytime.
@@ -99,9 +97,9 @@ One thing that we happily use everyday is the tool [mob](https://github.com/remo
 
 ## Pairing
 
-[Tuple](https://tuple.app/) (macOS only) seems very promising for remote pairing. 
+[Tuple](https://tuple.app/) (macOS and Linux) seems very promising for remote pairing. 
 It's the self-declared successor of the late screenhero. 
-However, [screen](https://screen.so), being developed by the original developer of screenhero, has made it clear that it wants to become the successor of screenhero as well.
+[Pop](https://pop.com), being developed by the original developer of screenhero, has made it clear that it wants to become the successor of screenhero as well.
 We'll try both, and report to you who'll win the game of the screenhero throne afterall.
 Over time, even more tools for collaborating have emerged. 
 Here's a short list of them for you to have a look at: [Drovio](https://www.drovio.com/).
